@@ -42,7 +42,8 @@ async function loadNews(){let previous=[];try{previous=cleanNews(JSON.parse(loca
 let fetched=[];let endpoints=location.hostname.endsWith("github.io")||location.protocol==="file:"?["./news.json"]:["/api/news?days=5","./news.json"];
 for(const url of endpoints){try{const r=await fetch(url,{cache:"no-store"});if(!r.ok)continue;const payload=await r.json();fetched=cleanNews(Array.isArray(payload)?payload:(payload.items||payload.news||payload.results||[]));if(fetched.length)break;}catch{}}
 verifiedNews=cleanNews([...previous,...fetched]);try{localStorage.setItem(NEWS_CACHE_KEY,JSON.stringify(verifiedNews))}catch{}
-renderNews();}
+renderNews();
+try{const response=await fetch("./news-status.json",{cache:"no-store"});if(response.ok){const metadata=await response.json();const checked=metadata.checked_at?new Date(metadata.checked_at):null;const failures=Object.values(metadata.sources||{}).filter(x=>!x.ok).length;const status=document.getElementById("status");if(checked&&!isNaN(checked.getTime())){status.textContent=(verifiedNews.length?"● ":"◌ ")+ "最近同步："+checked.toLocaleString("zh-TW",{timeZone:"Asia/Taipei"})+(failures?" · "+failures+" 個來源失敗":"");}else{status.textContent="◌ 待首次新聞同步";}}}catch{}}
 function searchNews(){renderNews();}
 function reportText(){return "CONGRESS.IQ｜國會情報資料狀態報告\n生成時間："+new Date().toLocaleString("zh-TW",{timeZone:"Asia/Taipei"})+"\n\n新聞：未接入\n委員會議程：未接入\n議員公開聲明：未接入\n法案：需部署後端及官方 API\n\n警示：本報告不代表當日國會實際動態。\n來源：https://www.congress.gov/";}
 function downloadReport(){const blob=new Blob([reportText()],{type:"text/plain;charset=utf-8"});const a=document.createElement("a");a.href=URL.createObjectURL(blob);a.download="congress-iq-report.txt";a.click();setTimeout(()=>URL.revokeObjectURL(a.href),1000);}
