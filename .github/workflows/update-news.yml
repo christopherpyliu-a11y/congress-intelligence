@@ -1,0 +1,30 @@
+name: Refresh congressional news
+on:
+  schedule:
+    - cron: '12 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: congress-news-refresh
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Fetch sources and retain previous five days
+        run: python scripts/fetch_news.py
+      - name: Commit verified news and sync status
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add news.json news-status.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update congressional news feed"
+            git push
+          fi
