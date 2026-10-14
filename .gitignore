@@ -1,0 +1,1 @@
+.env\n.env.*\n!.env.example\n__pycache__/\n*.pyc\n*.db\ndata/\n
