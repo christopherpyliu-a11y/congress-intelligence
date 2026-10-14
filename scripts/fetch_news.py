@@ -49,8 +49,9 @@ def safe_link(link):
     except ValueError: return None
 
 def text(node, *tags):
+    ns = {"a": "http://www.w3.org/2005/Atom", "dc": "http://purl.org/dc/elements/1.1/"}
     for tag in tags:
-        v = node.findtext(tag)
+        v = node.findtext(tag, namespaces=ns)
         if v: return v.strip()
     return ""
 
