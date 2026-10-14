@@ -1,7 +1,29 @@
 {
-  "checked_at": null,
-  "new_items": 0,
-  "retained_items": 0,
-  "sources": {},
-  "warning": "首次同步尚未執行"
+  "checked_at": "2026-10-14T18:32:30.951454+00:00",
+  "last_window_days": 5,
+  "new_items": 16,
+  "retained_items": 16,
+  "sources": {
+    "The Hill — House": {
+      "ok": true,
+      "fetched": 2
+    },
+    "The Hill — Senate": {
+      "ok": true,
+      "fetched": 12
+    },
+    "Roll Call": {
+      "ok": true,
+      "fetched": 2
+    },
+    "Defense News — Congress": {
+      "ok": true,
+      "fetched": 0
+    },
+    "Politico — Congress": {
+      "ok": false,
+      "error": "HTTP Error 403: Forbidden"
+    }
+  },
+  "warning": "RSS摘要保留來源原語言；不代表已通過AI中文翻譯或政策研判。"
 }
