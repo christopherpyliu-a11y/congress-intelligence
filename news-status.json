@@ -1,16 +1,16 @@
 {
-  "checked_at": "2026-10-20T15:00:10.087713+00:00",
+  "checked_at": "2026-10-20T19:10:54.541041+00:00",
   "last_window_days": 5,
   "new_items": 1,
-  "retained_items": 35,
+  "retained_items": 31,
   "sources": {
     "The Hill — House": {
       "ok": true,
-      "fetched": 7
+      "fetched": 6
     },
     "The Hill — Senate": {
       "ok": true,
-      "fetched": 10
+      "fetched": 9
     },
     "Roll Call": {
       "ok": true,
