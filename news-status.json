@@ -1,20 +1,20 @@
 {
-  "checked_at": "2026-11-03T10:44:21.263224+00:00",
+  "checked_at": "2026-11-03T18:23:46.824579+00:00",
   "last_window_days": 5,
-  "new_items": 1,
-  "retained_items": 38,
+  "new_items": 19,
+  "retained_items": 52,
   "sources": {
     "The Hill — House": {
       "ok": true,
-      "fetched": 11
+      "fetched": 4
     },
     "The Hill — Senate": {
       "ok": true,
-      "fetched": 10
+      "fetched": 15
     },
     "Roll Call": {
       "ok": false,
-      "error": "duplicate attribute: line 5, column 3"
+      "error": "HTTP Error 504: Gateway Time-out"
     },
     "Defense News — Congress": {
       "ok": true,
