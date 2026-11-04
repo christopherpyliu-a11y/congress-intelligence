@@ -1,10 +1,163 @@
 [
   {
+    "id": "2e0dfed26d9976062b9d",
+    "title": "Schumer exults over Democratic Senate: ‘Wow, wow, wow’",
+    "summary": "Sen. Chuck Schumer (D-N.Y.), who is now poised to become Senate majority leader, exulted Tuesday night over the blue wave that has flipped at least six Republican seats and put Democrats firmly in control of the Senate next year. “Oh man! Wow, wow, wow! Against all odds we Democrats have won the Senate,” Schumer declared...",
+    "published_at": "2026-11-04T06:00:45Z",
+    "source_url": "https://thehill.com/homenews/senate/6196501-chuck-schumer-democrats-senate/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "a8aa773c62e5a0504f08",
+    "title": "The blue wave that broke Trump’s Republican map",
+    "summary": "Democrats soared to victory Tuesday night across races for Congress and governors’ mansions, and are set to retake power in Congress by higher margins than the party has had since last century. It’s a striking condemnation from voters of the war in Iran and President Trump’s leadership of the Republican Party. Midterm elections are usually...",
+    "published_at": "2026-11-04T05:53:23Z",
+    "source_url": "https://thehill.com/homenews/house/6196494-trump-loses-congress-control/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "18f773d3ddc3050290ac",
+    "title": "Kingston wins Georgia House seat left open by Carter",
+    "summary": "Republican Jim Kingston, the son of former Rep. Jack Kingston (R-Ga.), is projected to win Georgia’s 1st Congressional District, defeating Democrat Amanda Hollowell, according to Decision Desk HQ. Kingston will succeed Rep. Buddy Carter (R-Ga.), who gave up his seat to launch a costly yet unsuccessful bid for Senate, where he finished third in the...",
+    "published_at": "2026-11-04T05:48:59Z",
+    "source_url": "https://thehill.com/homenews/campaign/6188792-jim-kingston-wins-georgia-district/",
+    "source": "The Hill — House",
+    "category": "國會動態"
+  },
+  {
+    "id": "ea2b1751b90485813427",
+    "title": "Letlow narrowly wins Senate seat in Louisiana",
+    "summary": "GOP Rep. Julia Letlow is projected to narrowly win her Louisiana Senate race, according to Decision Desk HQ (DDHQ). She will be the first Republican woman to represent the Pelican State after she defeated Democratic nominee Jamie Davis in the contest to replace outgoing Sen. Bill Cassidy (R-La.). She notched about 50 percent of the...",
+    "published_at": "2026-11-04T05:36:11Z",
+    "source_url": "https://thehill.com/homenews/campaign/6182825-republican-julia-letlow-wins-senate-seat-louisiana-2026-midterms/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "92f14e5a0db991b7c51a",
+    "title": "Jim Risch wins fourth term in Idaho Senate race",
+    "summary": "Idaho Sen. Jim Risch (R) has won a fourth term on Capitol Hill, Decision Desk HQ projects. Risch, the chairman of the Senate Foreign Relations Committee, defeated Independent Todd Achilles to hold on to his seat. The incumbent was first elected to the Senate in 2008 after serving as lieutenant governor and governor of the...",
+    "published_at": "2026-11-04T05:34:23Z",
+    "source_url": "https://thehill.com/homenews/campaign/6165643-risch-wins-idaho-senate/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "1a0f1fcff8127f3e5f71",
+    "title": "Gray wins open Wyoming House seat",
+    "summary": "Wyoming Secretary of State Chuck Gray (R) is projected to win the race to represent the state's at-large congressional district, according to Decision Desk HQ. The state election official defeated Democrat Lisa Kinney, the former state Senate minority leader, in a seat considered safe for Republicans. He will succeed Republican Rep. Harriet Hageman, who is...",
+    "published_at": "2026-11-04T04:48:42Z",
+    "source_url": "https://thehill.com/homenews/campaign/6181955-wyoming-chuck-gray-wins-congress/",
+    "source": "The Hill — House",
+    "category": "國會動態"
+  },
+  {
+    "id": "df1d5f7025da14fe7c25",
+    "title": "Lindsay James wins in Iowa, turning Hinson's House seat blue",
+    "summary": "Iowa state Rep. Lindsay James (D) is projected to defeat Republican Joe Mitchell in the state's 2nd Congressional District, according to Decision Desk HQ (DDHQ). James's victory turns a Republican-held seat blue after Rep. Ashley Hinson (R-Iowa) opted to run for Senate, giving Democrats a pickup in their fight for control of the House. The...",
+    "published_at": "2026-11-04T04:39:43Z",
+    "source_url": "https://thehill.com/homenews/campaign/6181406-lindsay-james-iowa-2nd-congressional-district/",
+    "source": "The Hill — House",
+    "category": "國會動態"
+  },
+  {
+    "id": "9d9460178a9848aa4a72",
+    "title": "Rutinel ousts GOP’s Evans in toss-up Colorado House race",
+    "summary": "Democrat Manny Rutinel is projected to oust Rep. Gabe Evans (R-Colo.) from his seat in Colorado’s 8th Congressional District, according to Decision Desk HQ (DDHQ). Rutinel was leading with 56 percent of the vote with 78 percent of the total reported, according to DDHQ as of 11:18 p.m. EST. Rutinel, a former Colorado state representative,...",
+    "published_at": "2026-11-04T04:25:08Z",
+    "source_url": "https://thehill.com/homenews/campaign/6164061-rutinel-ousts-evans-colorado-congressional-district/",
+    "source": "The Hill — House",
+    "category": "國會動態"
+  },
+  {
     "id": "e64fb044f0c936e49512",
-    "title": "Live updates: Polls begin to close in Indiana, Kentucky as battle for Congress heats up",
-    "summary": "Election Day is here, with President Trump’s political capital on the line as Democrats eye a potential blue wave and Republicans scramble to defend their congressional majorities. Trump has campaigned across the country in recent months, holding 28 in-person rallies in addition to a series of telerallies. He’s made stops in states including Ohio, Texas,...",
-    "published_at": "2026-11-03T23:01:33Z",
+    "title": "Live updates: Democrats take control of House and Senate",
+    "summary": "Democrats have seized control of the U.S. House and Senate, according to Decision Desk HQ's (DDHQ) projection. The House flipped after four years in minority for the Democrats, while victory in the Senate will deliver additional oversight powers for the party, who will now have a much bigger say on administration and judicial nominations. In...",
+    "published_at": "2026-11-04T04:22:51Z",
     "source_url": "https://thehill.com/homenews/campaign/6190941-live-updates-trump-midterm-elections-2026/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "7b24511854c4d366bf8d",
+    "title": "Brown pulls off Senate comeback bid, beating Husted in Ohio",
+    "summary": "Former Sen. Sherrod Brown (D) is projected to head back to the Senate, beating Sen. Jon Husted (R) in Ohio, according to Decision Desk HQ (DDHQ). Just two years after Brown, a three-term senator, was ousted by Sen. Bernie Moreno (R) in a tough 2024 race, his comeback bid faced steep odds in the once-purple...",
+    "published_at": "2026-11-04T04:20:44Z",
+    "source_url": "https://thehill.com/homenews/campaign/6181972-sherrod-brown-wins-ohio-senate-race/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "6c5fdf295f83df263007",
+    "title": "Democrats win Senate majority",
+    "summary": "Democrats have won the Senate majority, a feat that seemed unreachable last year but that came to fruition with Republican candidates failing in states won just two years ago by President Trump, whose failing approval ratings was a huge drag on the GOP. Victory in the Senate will deliver additional oversight powers to Democrats, who...",
+    "published_at": "2026-11-04T04:19:38Z",
+    "source_url": "https://thehill.com/homenews/senate/6185385-democrats-win-senate-midterms/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "9cf19300c5fe60448c41",
+    "title": "Democrat Josh Turek flips Senate seat in Iowa",
+    "summary": "Democrat Josh Turek is projected to win the Iowa Senate race as his party closes in on a Senate majority, according to a projection by Decision Desk HQ. Turek defeated Republican Rep. Ashley Hinson in a close race to flip the seat vacated by retiring Sen. Joni Ernst (R). He notched just more than 51...",
+    "published_at": "2026-11-04T04:18:35Z",
+    "source_url": "https://thehill.com/homenews/campaign/6178947-democrat-josh-turek-flips-senate-seat-in-iowa-2026-midterms/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "a113e3bf53e3474926cf",
+    "title": "Hagerty wins second Senate term in Tennessee",
+    "summary": "Tennessee Sen. Bill Hagerty (R) is projected to secure a second term in the upper chamber, according to Decision Desk HQ. Hagerty, the former U.S. ambassador to Japan, defeated Democrat Marquita Bradshaw in a rematch. Bradshaw lost to Hagerty by nearly 30 percentage points in 2020. This year's race was closer, with DDHQ reporting Hagerty...",
+    "published_at": "2026-11-04T03:59:05Z",
+    "source_url": "https://thehill.com/homenews/campaign/6152346-hagerty-wins-tennessee-senate-race/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "9d1edb16ec4e50cb1ecb",
+    "title": "Adam Hamilton flips Senate seat blue in Kansas",
+    "summary": "Adam Hamilton, a Democrat and pastor, is projected to win the Senate race in Kansas, according to Decision Desk HQ (DDHQ), all but ensuring a Senate majority for his party. Hamilton will unseat incumbent Sen. Roger Marshall (R) and flip a seat that was once expected to be safe for the GOP. He will be the...",
+    "published_at": "2026-11-04T03:51:26Z",
+    "source_url": "https://thehill.com/homenews/campaign/6182761-democrat-adam-hamilton-flips-kansas-senate-seat-2026-midterms/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "0492efa3510d14a8fc0b",
+    "title": "Sen. Mike Rounds wins reelection in South Dakota",
+    "summary": "GOP Sen. Mike Rounds is projected to win reelection in South Dakota’s Senate race, according to Decision Desk HQ (DDHQ). Rounds was expected to defeat his opponent, Democrat-turned-Independent Brian Bengs, in the reliably Republican state. Bengs was not well-funded, and a previous Democratic challenger withdrew in August. The incumbent, 72, has served in the Senate...",
+    "published_at": "2026-11-04T03:08:20Z",
+    "source_url": "https://thehill.com/homenews/campaign/6184544-mike-rounds-wins-south-dakota-senate/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "afde51f66af3ab7b2341",
+    "title": "Moore wins Alabama Senate race to succeed Tuberville",
+    "summary": "Rep. Barry Moore (R-Ala.) is projected to win the race to succeed Alabama GOP Sen. Tommy Tuberville, according to Decision Desk HQ. Tuberville, a former college football coach, decided to exit the upper chamber after one term to run for Alabama governor. The result is also a victory for President Trump, who backed Moore in...",
+    "published_at": "2026-11-04T03:08:15Z",
+    "source_url": "https://thehill.com/homenews/campaign/6137514-moore-wins-alabama-senate-race/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "a879e2370b95fad78bf4",
+    "title": "Darline Graham falls to Democrat Annie Andrews in stunning Senate GOP defeat",
+    "summary": "Republican Sen. Darline Graham (S.C.), whom President Trump personally picked to succeed her late brother Sen. Lindsey Graham (R-S.C.) and was then encouraged by the president to run for a full term, has been projected to be defeated by Democrat Annie Andrews in a stunning loss for the GOP, according to Decision Desk HQ (DDHQ)....",
+    "published_at": "2026-11-04T02:57:47Z",
+    "source_url": "https://thehill.com/homenews/campaign/6176382-andrews-defeats-graham-sc-senate/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "f10d0048d07a2f659254",
+    "title": "Luján wins second term as New Mexico senator",
+    "summary": "New Mexico Sen. Ben Ray Luján (D) is projected to win a second term in the upper chamber, according to Decision Desk HQ. Luján defeated Republican Larry Marker in the blue state. The incumbent previously served in the House, representing the state's 3rd District from 2009-21. He also chaired the House Democrats' campaign arm for four...",
+    "published_at": "2026-11-04T02:35:29Z",
+    "source_url": "https://thehill.com/homenews/campaign/6152365-lujan-wins-new-mexico-senate/",
     "source": "The Hill — Senate",
     "category": "國會動態"
   },
