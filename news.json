@@ -1,5 +1,41 @@
 [
   {
+    "id": "47dd7dc5ea86f43b5266",
+    "title": "Cruz warns 'Texans will be hurt' after 'blue tsunami'",
+    "summary": "Texas Sen. Ted Cruz (R) issued a stark warning on Wednesday evening after Democrats flipped a Texas Senate seat and the governor’s mansion in the midterm elections. In a lengthy statement shared on social media, the GOP senator said that “Texans will be hurt” by the blue tsunami that swept across the state and country...",
+    "published_at": "2026-11-05T01:59:27Z",
+    "source_url": "https://thehill.com/homenews/senate/6199935-cruz-warns-democrat-texas-wins/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "71e52574ad0d084789ed",
+    "title": "None of the House Republicans who voted to impeach Trump will be in the next Congress",
+    "summary": "None of the House Republicans who voted to impeach President Trump over the Jan. 6, 2021, attack on the Capitol will be in Congress after this year following Tuesday’s midterm elections. The last Republican still in the House is outgoing Rep. David Valadao (Calif.) who was defeated by Democrat Randy Villegas. Valadao was among the...",
+    "published_at": "2026-11-05T00:33:50Z",
+    "source_url": "https://thehill.com/homenews/house/6199833-trump-impeachment-vote-republicans-exit/",
+    "source": "The Hill — House",
+    "category": "國會動態"
+  },
+  {
+    "id": "91fc1c201c09d6e5a1db",
+    "title": "Progressive group calls for Senate Dems to replace Schumer as leader",
+    "summary": "The progressive group Indivisible called for Democratic lawmakers on Wednesday to replace Sen. Chuck Schumer (N.Y.) as Democratic leader after the party secured control of both chambers of Congress in Tuesday’s midterm elections. “Yesterday, voters made it very clear that they want a new generation of Democratic fighters,” the group wrote in a social media...",
+    "published_at": "2026-11-04T22:32:24Z",
+    "source_url": "https://thehill.com/homenews/senate/6199541-indivisible-calls-schumer-replacement/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "d2ea474ebde4c2652dcc",
+    "title": "All the GOP House incumbents swept away in the blue wave",
+    "summary": "Democrats had a historic night Tuesday, sweeping both chambers of Congress and making gains deep into Republican territory. The party won nearly everywhere it was expected to and in places people never thought it had a chance. As of Wednesday afternoon, 27 House incumbents had been projected to lose their seats by Decision Desk HQ...",
+    "published_at": "2026-11-04T22:10:11Z",
+    "source_url": "https://thehill.com/homenews/campaign/6199386-house-republican-incumbents-lose-midterm-elections/",
+    "source": "The Hill — House",
+    "category": "國會動態"
+  },
+  {
     "id": "ce035196d64c8ea57825",
     "title": "Cornyn says GOP 'forgot how to win' under Trump",
     "summary": "Outgoing Texas Sen. John Cornyn (R) issued his own analysis Wednesday after the GOP suffered major losses across the country and in the Lone Star State in Tuesday's midterms. The four-term senator reflected on the party’s defeat in an op-ed published in The Wall Street Journal, titled “Republicans Forgot How to Win Elections.” “This week’s...",
@@ -47,7 +83,7 @@
   {
     "id": "b7cba8b4f5aac8d10266",
     "title": "These Democrats are set to take foreign policy reins in Congress",
-    "summary": "Tuesday’s seismic midterm results hand Democrats significant powers to investigate the Trump administration’s world dealings and check the president’s intervention abroad. The Democrats likely to move into top posts on the foreign policy panels and appropriations committees are seasoned legislators with deep international experience. Democrats have slammed President Trump’s att",
+    "summary": "Correction: An earlier version of this article contained incorrect information about the likely chair of the Senate Appropriations Subcommittee on State, Foreign Operations, and Related Programs. Tuesday’s seismic midterm results hand Democrats significant powers to investigate the Trump administration’s world dealings and check the president’s intervention abroad. The Democrat",
     "published_at": "2026-11-04T17:36:59Z",
     "source_url": "https://thehill.com/policy/international/6198389-democrats-foreign-policy-power-congress/",
     "source": "The Hill — Senate",
@@ -770,33 +806,6 @@
     "summary": "Democrats running for Senate in Maine, Alaska and New Hampshire are zeroing in on the rising cost of home heating as winter — and Election Day — quickly approach. Republican candidates have been on defense in key Senate battlegrounds, arguing against the claim that the GOP has enabled President Trump’s war in Iran, which has...",
     "published_at": "2026-10-31T10:00:00Z",
     "source_url": "https://thehill.com/homenews/campaign/6183400-senate-rising-home-heating-costs/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "1f8f56480d29296ef4a2",
-    "title": "Democrats weigh Israel election results amid lingering uncertainty",
-    "summary": "The results of Israel’s elections this week have left Democrats on Capitol Hill with a mixed bag of emotions. The lawmakers say they’re heartened by the massive voter turnout, the erosion of support for conservative Prime Minister Benjamin Netanyahu, and the potential influence of his top opponent, retired Gen. Gadi Eisenkot, over whatever governing coalition...",
-    "published_at": "2026-10-30T23:03:02Z",
-    "source_url": "https://thehill.com/homenews/house/6185584-democrats-react-israel-elections/",
-    "source": "The Hill — House",
-    "category": "國會動態"
-  },
-  {
-    "id": "ebe54cd09459f97c6bfd",
-    "title": "Feds 'intensely' probing alleged Alaska ballot scheme, US attorney confirms",
-    "summary": "Federal authorities are investigating whether Democrat Mary Peltola's campaign's reported effort to recruit a candidate in the Alaska Senate race with the same name as incumbent Sen. Dan Sullivan (R) violated the law, the state’s top federal prosecutor announced Friday. U.S. Attorney for the District of Alaska Michael Heyman said during a press conference that...",
-    "published_at": "2026-10-30T22:43:55Z",
-    "source_url": "https://thehill.com/homenews/campaign/6185640-alaska-senate-spoiler-probe/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "cf6d8a72ff5c2be48c30",
-    "title": "Cruz warns GOP could lose 8 Senate seats, get swept in Texas",
-    "summary": "Sen. Ted Cruz (R-Texas) is warning that Republicans could lose as many as eight Senate seats in the midterm elections and get swept in all of the statewide Texas races, including the Senate contest between Republican Ken Paxton and Democrat James Talarico, if the GOP has a bad day on Nov. 3. “The election is...",
-    "published_at": "2026-10-30T22:02:32Z",
-    "source_url": "https://thehill.com/homenews/senate/6185545-ted-cruz-warns-gop-losses/",
     "source": "The Hill — Senate",
     "category": "國會動態"
   }
