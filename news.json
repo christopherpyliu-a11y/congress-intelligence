@@ -1,8 +1,71 @@
 [
   {
+    "id": "b71320cae3fbbf67e728",
+    "title": "Top GOP House lawmakers want Nvidia's Jensen Huang to come to Congress",
+    "summary": "House Select Committee on China Chair John Moolenaar (R-Mich.), House Foreign Affairs Committee Chair Brian Mast (R-Fl.) and House Permanent Select Committee on Intelligence Chair Rick Crawford (R-Ark.) sent a letter to Nvidia CEO Jensen Huang following reports he sent intelligence to China. The GOP lawmakers requested Huang appear in a joint, closed-door briefing on...",
+    "published_at": "2026-11-05T22:58:34Z",
+    "source_url": "https://thehill.com/policy/technology/6202702-gop-summons-nvidia-ceo-huang/",
+    "source": "The Hill — House",
+    "category": "涉台／涉中"
+  },
+  {
+    "id": "73f4ced56da71c4f4d65",
+    "title": "Scalise directs GOP chairs to start 'taking inventory' of coming Democratic investigations",
+    "summary": "House Majority Leader Steve Scalise (R-La.) encouraged his GOP colleagues to “maximize our remaining days in power” by preparing for an expected onslaught of Democratic investigations. In a letter to GOP committee chairs, Scalise said the party needs to begin “taking inventory” of expected Democratic probes, asking the group to also assemble a list of...",
+    "published_at": "2026-11-05T22:55:45Z",
+    "source_url": "https://thehill.com/homenews/house/6202747-democrats-prepare-trump-probes/",
+    "source": "The Hill — House",
+    "category": "國會動態"
+  },
+  {
+    "id": "39842ead06a83705f653",
+    "title": "Sean Casten launches bid for House Financial Services chair",
+    "summary": "Rep. Sean Casten (D-Ill.) has formally launched a bid to chair the House Financial Services Committee, setting up a challenge to the panel's longtime Democratic leader, Rep. Maxine Waters (D-Calif.). In a letter to his Democratic colleagues Thursday, Casten asked for their support as he seeks the gavel in the new Congress. Democrats are set...",
+    "published_at": "2026-11-05T22:19:15Z",
+    "source_url": "https://thehill.com/business/6202574-casten-challenges-waters-financial-services/",
+    "source": "The Hill — House",
+    "category": "國會動態"
+  },
+  {
+    "id": "4930afe552e9b54afd69",
+    "title": "Trump adviser calls for alternative to Thune for Senate GOP leader",
+    "summary": "President Trump adviser Alex Bruesewitz publicly called on Senate Republicans to look beyond Majority Leader John Thune (R-S.D.) Thursday, accusing the party of “rewarding failure” after sweeping midterm losses. “Why do Hill Republicans insist on rewarding failure? He’s not exactly in touch with the interests of Republican voters,” Bruesewitz wrote on the social platform X....",
+    "published_at": "2026-11-05T22:10:45Z",
+    "source_url": "https://thehill.com/homenews/senate/6202589-trump-adviser-calls-gop-revolt/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "b80081e7cdd392ad75e7",
+    "title": "Van Hollen not running for Senate majority leader, source says",
+    "summary": "Sen. Chris Van Hollen (D-Md.) is not planning to challenge Sen. Chuck Schumer (D-N.Y.) for Senate majority leader, a source close to Van Hollen told NewsNation, The Hill’s partner network. “Prior to selecting a majority leader, Senator Van Hollen believes the caucus needs to have an honest and open conversation about how we move an...",
+    "published_at": "2026-11-05T21:06:57Z",
+    "source_url": "https://thehill.com/homenews/senate/6202343-van-hollen-not-challenging-schumer/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "f68e4b7b86460605941f",
+    "title": "Dem senator presses call for Kennedy to 'resign or be fired' after election",
+    "summary": "Sen. Angela Alsobrooks (D-Md.) renewed her call for Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. to be removed from office Wednesday — more than a year after she joined fellow Democrats in demanding his ouster over the HHS secretary’s handling of the nation’s public health agencies. “The time is now. RFK Jr....",
+    "published_at": "2026-11-05T20:04:40Z",
+    "source_url": "https://thehill.com/homenews/senate/6202130-alsobrooks-calls-rfk-jr-resign/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "ccc04b170f1adf552d7e",
+    "title": "Sanders calls for Democrats to pass 'Medicare for All'",
+    "summary": "Sen. Bernie Sanders (I-Vt.) on Thursday called for Democrats to pass \"Medicare for All\" when they take control of the Senate in January. “Healthcare must be considered as a human right, not a privilege. That means passing Medicare for All legislation now supported by 66 percent of the American people,” Sanders said in a video. Sanders...",
+    "published_at": "2026-11-05T19:15:49Z",
+    "source_url": "https://thehill.com/homenews/senate/6201914-sanders-calls-medicare-all/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
     "id": "a9efa752034d3e107816",
     "title": "El-Sayed says he'd back Van Hollen as majority leader over Schumer",
-    "summary": "Senator-elect Abdul El-Sayed (D-Mich.) reupped his calls Thursday morning for Sen. Chris Van Hollen (D-Md.) to become Senate majority leader over Minority Leader Chuck Schumer (D-N.Y.) In an interview on “CNN News Central,” the newly elected Michigan Democrat echoed his May endorsement of the Maryland senator for the role. “I’ve been very clear: I think...",
+    "summary": "Abdul El-Sayed, Michigan’s newly elected Democratic senator, reupped his calls Thursday morning for Sen. Chris Van Hollen (D-Md.) to become Senate majority leader over current Minority Leader Chuck Schumer (D-N.Y.) In an interview on “CNN News Central,” El-Sayed echoed his May endorsement of the Maryland senator for the role. “I’ve been very clear: I think...",
     "published_at": "2026-11-05T18:40:44Z",
     "source_url": "https://thehill.com/homenews/senate/6201684-el-sayed-van-hollen-majority-leader/",
     "source": "The Hill — Senate",
@@ -11,7 +74,7 @@
   {
     "id": "96e1188b3093d7f16f30",
     "title": "Stevens pulls out of election analysis event at DC university",
-    "summary": "Rep. Haley Stevens (D-Mich.) will no longer appear as a panelist at a George Washington University (GW) post-election analysis event Thursday, just a few days after she controversially endorsed the Republican candidate in the Michigan Senate race. Stevens was set to appear alongside CNN’s Manu Raju, Rep. Jamie Raskin (D-Md.), Inside Elections’ Nathan Gonzales, Morris...",
+    "summary": "Rep. Haley Stevens (D-Mich.) will no longer appear as a panelist at a George Washington University postelection analysis event Thursday, just a few days after she controversially endorsed the Republican candidate in the Michigan Senate race. Stevens was set to appear alongside CNN’s Manu Raju; Rep. Jamie Raskin (D-Md.); Inside Elections editor Nathan Gonzales; Morris...",
     "published_at": "2026-11-05T18:36:55Z",
     "source_url": "https://thehill.com/homenews/campaign/6201679-haley-stevens-gwu-panel-canceled/",
     "source": "The Hill — House",
