@@ -1,5 +1,77 @@
 [
   {
+    "id": "d31755e0909a14b5f4d5",
+    "title": "Hegseth plans press conference, says he's 'not worried' about impeachment push",
+    "summary": "Defense Secretary Pete Hegseth said he plans to hold a press conference at the Pentagon on Tuesday morning and argued that he is “not worried” about the impeachment articles Rep. Thomas Massie (R-Ky.) plans to reintroduce against him this week. “We're not worried about that,” Hegseth told reporters in Newport, R.I., on Monday when asked...",
+    "published_at": "2026-11-09T18:13:25Z",
+    "source_url": "https://thehill.com/policy/defense/6208537-hegseth-pentagon-press-conference/",
+    "source": "The Hill — House",
+    "category": "國會動態"
+  },
+  {
+    "id": "eea774b3526332bb7643",
+    "title": "Burchett 'absolutely' would take appointment to Blackburn's seat",
+    "summary": "Rep. Tim Burchett (R-Tenn.) expressed interest in taking outgoing senator and Tennessee Gov.-elect Marsha Blackburn’s seat once she resigns from upper chamber. Burchett said he would \"absolutely\" take an appointment to the Senate, making the case that he is more popular and better positioned than any of the others on Blackburn’s reported shortlist. Burchett appeared...",
+    "published_at": "2026-11-09T18:04:17Z",
+    "source_url": "https://thehill.com/the-120/6208488-burchett-seeks-blackburn-senate-seat/",
+    "source": "The Hill — House",
+    "category": "國會動態"
+  },
+  {
+    "id": "f9d9b456aef1c2138c07",
+    "title": "House Freedom Caucus urges rapid action on new reconciliation package",
+    "summary": "The conservative House Freedom Caucus sent a letter to Speaker Mike Johnson (R-La.) and Senate Majority Leader John Thune (R-S.D.) on Monday urging them to push through a third reconciliation package and other GOP legislative priorities before Democrats assume control of Congress next year. The caucus wrote in their letter that there is “an enormous...",
+    "published_at": "2026-11-09T16:09:11Z",
+    "source_url": "https://thehill.com/homenews/house/6208185-gop-urges-legislative-push-before-democrats/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "197ae09b924c4077e15a",
+    "title": "Senate Republican calls for delayed leadership election",
+    "summary": "Sen. Dave McCormick (Pa.), a more moderate Republican from a key battleground state, is endorsing a call by conservative Senate GOP colleagues to delay the party's leadership elections scheduled for Tuesday. “As I’ve shared with Leader Thune, I don’t believe we should move to leadership elections until we have digested and debated the lessons of...",
+    "published_at": "2026-11-09T13:31:39Z",
+    "source_url": "https://thehill.com/homenews/senate/6207507-dave-mccormick-senate-gop-leadership-elections-delay/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "f13b1baef72d12783eec",
+    "title": "Senate Republicans return to Capitol furious with Trump after big losses",
+    "summary": "Senate Republicans returning to the Capitol on Monday are furious with President Trump, whom they blame for last week's big losses in Senate and House races. The anger is raising the chances that the party could pivot away from the lame-duck president in the lead-up to the 2028 presidential election, according to GOP aides and...",
+    "published_at": "2026-11-09T11:01:41Z",
+    "source_url": "https://thehill.com/homenews/senate/6206790-senate-gop-blames-trump-losses/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "432f0d634e773d4f66c7",
+    "title": "5 foreign policy priorities for Democrats in the next Congress",
+    "summary": "Democrats charting America’s foreign policy in the next Congress are charged with answering Americans’ demands to bring down soaring prices linked to the war in Iran and President Trump’s tariffs. At the same time, they’re focused on reversing what they view as Trump’s destructive policies: gutting America’s diplomatic corps, slashing foreign assistance and spending federal...",
+    "published_at": "2026-11-09T11:00:00Z",
+    "source_url": "https://thehill.com/policy/international/6204945-democrats-foreign-policy-priorities/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "af7d9ad66df4683b2485",
+    "title": "Meet the 5 Democrats poised to shake up Washington’s AI safety debate",
+    "summary": "The AI safety community is feeling optimistic after the Democrats’ midterm sweep elected several candidates promising stricter regulations on the technology. After years of stalled AI regulation in Congress, advocates for stricter guardrails on the technology are hopeful the new class of House and Senate members could turn the tide in their favor. While AI...",
+    "published_at": "2026-11-09T11:00:00Z",
+    "source_url": "https://thehill.com/policy/technology/6205332-new-house-senate-members-focus-ai-safety/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "a7fa9fbda564d5c73543",
+    "title": "Pete Hegseth? Haley Stevens? Hakeem Jeffries faces slew of lame-duck challenges",
+    "summary": "House Minority Leader Hakeem Jeffries (D-N.Y.) is flying high following a midterm landslide that gives Democrats a huge majority next year and makes him a shoo-in for the Speakership. But first, he’s facing some tough choices in the lame-duck session. Congress returns to Washington this week with several high-profile topics on the docket that are...",
+    "published_at": "2026-11-09T11:00:00Z",
+    "source_url": "https://thehill.com/the-120/6205327-jeffries-democrat-house-majority-tests/",
+    "source": "The Hill — House",
+    "category": "國會動態"
+  },
+  {
     "id": "91235cd516d190ef2288",
     "title": "Rep.-elect says Democratic majority is an 'opportunity' for Trump",
     "summary": "Rep.-elect Richard Ojeda (D-N.C.) said Sunday that the Democrats’ upcoming majority in Congress provides a chance for President Trump to work with the party to improve Americans' lives. “But make no mistake about it, if we don't get to Washington, D.C., and we don't start pushing legislation that elevates people's lives, we're going to lose...",
@@ -482,141 +554,6 @@
     "summary": "Former Sen. Mitt Romney (R-Utah) on Wednesday listed off reasons he thought his party failed in this year’s midterms, in which Democrats won both the House and Senate. “Bad policy, bad character make bad politics: erratic tariffs, impulsive Iran war, blanket pardons, apparent corruption, weaponized justice, ICE [Immigration and Customs Enforcement] brutality, mountainous defici",
     "published_at": "2026-11-04T20:26:25Z",
     "source_url": "https://thehill.com/homenews/campaign/6199146-romney-lists-midterm-failures/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "1b69dc2f6ec75b93015d",
-    "title": "Schumer says Republicans favor ending Iran war immediately, cites ‘power of the purse’",
-    "summary": "Senate Democratic Leader Chuck Schumer (N.Y.) said there will be Senate Republican support for ending the war with Iran as soon as possible and threatened that Democrats will use the “power of the purse” to starve the Defense Department of funding if necessary to bring a swift end to the conflict. “We are going to...",
-    "published_at": "2026-11-04T18:32:50Z",
-    "source_url": "https://thehill.com/homenews/senate/6198699-schumer-republicans-iran-war-end/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "76f06817b24144851417",
-    "title": "Pfluger challenges Emmer for minority whip position",
-    "summary": "Republican Study Committee Chair August Pfluger (R-Texas) is running against House Majority Whip Tom Emmer (R-Minn.) for the minority whip position after Democrats won control of the lower chamber. Pfluger wrote in a letter to his Republican colleagues on Wednesday the GOP must be “crafting a strategy to win back the majority.” “We started 2025...",
-    "published_at": "2026-11-04T17:58:02Z",
-    "source_url": "https://thehill.com/homenews/house/6198524-pfluger-emmer-gop-whip-race/",
-    "source": "The Hill — House",
-    "category": "國會動態"
-  },
-  {
-    "id": "1f976b5ebba801c724cf",
-    "title": "Schumer has votes for majority leader despite some Democratic dissent",
-    "summary": "Sen. Chuck Schumer (D-N.Y.) says he will be reelected as Senate majority leader next month when Democrats hold leadership elections despite the dissent of a handful of newly elected senators who threatened not to support him serving another term as leader. “The issue is not me. I’ll be reelected as majority leader. But the issue...",
-    "published_at": "2026-11-04T17:49:35Z",
-    "source_url": "https://thehill.com/homenews/senate/6198456-schumer-senate-majority-leader-support/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "b7cba8b4f5aac8d10266",
-    "title": "These Democrats are set to take foreign policy reins in Congress",
-    "summary": "Correction: An earlier version of this article contained incorrect information about the likely chair of the Senate Appropriations Subcommittee on State, Foreign Operations, and Related Programs. Tuesday’s seismic midterm results hand Democrats significant powers to investigate the Trump administration’s world dealings and check the president’s intervention abroad. The Democrat",
-    "published_at": "2026-11-04T17:36:59Z",
-    "source_url": "https://thehill.com/policy/international/6198389-democrats-foreign-policy-power-congress/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "a632a105a1a3eedaadfa",
-    "title": "Watch live: Jeffries speaks after Democrats flip House in midterm sweep",
-    "summary": "House Minority Leader Hakeem Jeffries (D-N.Y.) is set to speak Wednesday after Democrats secured enough seats to reclaim control of the House in Tuesday's midterm elections. Jeffries is now poised to become the next House Speaker when the new Congress convenes in January, putting him at the forefront of Democrats' efforts to challenge President Trump's...",
-    "published_at": "2026-11-04T16:30:00Z",
-    "source_url": "https://thehill.com/video-clips/6197990-watch-live-hakeem-jeffries-house-democrats-midterm-sweep-presser/",
-    "source": "The Hill — House",
-    "category": "國會動態"
-  },
-  {
-    "id": "058f19b3c49eedb404ea",
-    "title": "House Majority Leader Steve Scalise will run for minority leader",
-    "summary": "House Majority Leader Steve Scalise (R-La.) will run for minority leader, setting up what will likely be a contentious contest against House Judiciary Committee Chair Jim Jordan (R-Ohio) for the position. A source familiar with Scalise's plans shared them with The Hill, swiftly following news that Speaker Mike Johnson (R-La.) told staff on Wednesday morning...",
-    "published_at": "2026-11-04T16:27:39Z",
-    "source_url": "https://thehill.com/homenews/house/6198097-steve-scalise-house-minority-leader-bid/",
-    "source": "The Hill — House",
-    "category": "國會動態"
-  },
-  {
-    "id": "0862c39dd0d4fa1e272d",
-    "title": "Democrats eye Big Tech after midterm wins",
-    "summary": "Democrats are making commitments to make artificial intelligence regulation and the investigation of companies a key priority as they prepare to take control of the House and Senate after Tuesday night's election sweep. Shortly after news broke that Democrats secured a House majority, Democratic Rep. Greg Casar (Texas) said his party \"must make it a...",
-    "published_at": "2026-11-04T16:24:40Z",
-    "source_url": "https://thehill.com/policy/technology/6197847-democrats-big-tech-ai-regulations-2026-midterm-wins/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "aebe406aea327fe169f1",
-    "title": "Jim Jordan announces he will run for minority leader, teeing up fight with Scalise",
-    "summary": "House Judiciary Committee Chair Jim Jordan (R-Ohio) announced Wednesday he will run for minority leader, formally entering the race to lead House Republicans in the next Congress after they suffered a major blow in the midterms. He will likely face a contentious fight against current House Majority Leader Steve Scalise (R-La.). Speaker Mike Johnson (R-La.)...",
-    "published_at": "2026-11-04T16:15:08Z",
-    "source_url": "https://thehill.com/homenews/house/6198024-jim-jordan-house-gop-minority-leader-scalise-mike-johnson-2026-midterms/",
-    "source": "The Hill — House",
-    "category": "國會動態"
-  },
-  {
-    "id": "8f55b0e61d7d77f54f58",
-    "title": "Peltola takes slight lead in Alaska Senate race",
-    "summary": "Democrat Mary Peltola has taken a slight lead in Alaska’s Senate race by about 500 votes, results from Decision Desk HQ (DDHQ) show, putting a possible eighth flip in the Senate in reach. As of almost 11 a.m. EST Wednesday, Peltola leads Sen. Dan Sullivan (R) with 48.2 percent to his 47.9 percent with 70...",
-    "published_at": "2026-11-04T16:07:14Z",
-    "source_url": "https://thehill.com/homenews/campaign/6197925-mary-peltola-alaska-senate-race-lead/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "0f329e3fec62601cfd7c",
-    "title": "Watch live: Schumer to tout Democrats’ sweeping midterm victories",
-    "summary": "Senate Democratic Leader Chuck Schumer (N.Y.) is set to hold a press conference Wednesday morning after Democrats pulled off a stunning midterm comeback, winning control of both chambers of Congress. Democrats flipped GOP-held Senate seats in states including Texas, South Carolina, Kansas and Iowa, delivering a major blow to President Trump and the GOP. Decision...",
-    "published_at": "2026-11-04T15:17:41Z",
-    "source_url": "https://thehill.com/video-clips/6197613-watch-live-chuck-schumer-democrats-2026-midterm-wins/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "656ba764ea87e300798f",
-    "title": "Stocks rally after Democrats march to midterm victories",
-    "summary": "Stocks rallied on Wednesday morning, after Democrats snatched back control of both chambers of Congress in the midterm elections. The Dow Jones Industrial Average was up by 1,104 points nearly 30 minutes after the opening bell. The Nasdaq composite and S&P 500 were up by more than 500 and 120 points, respectively. Stocks tanked to...",
-    "published_at": "2026-11-04T15:12:22Z",
-    "source_url": "https://thehill.com/business/6197256-stocks-rally-democrats-midterm-victory/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "3490cfdd0f1e65cf1127",
-    "title": "Tillis: Hegseth faces ‘a reckoning’ in lame-duck session of Congress",
-    "summary": "Sen. Thom Tillis (R-N.C.) said Secretary of Defense Pete Hegseth faces “a reckoning” in the post-election lame-duck Congress and questioned whether President Trump will be able to get the Pentagon funded if Hegseth remains in his job. “Hegseth has a reckoning,” Tillis told CBS News. “He is one of the reasons why we don’t have...",
-    "published_at": "2026-11-04T12:49:18Z",
-    "source_url": "https://thehill.com/homenews/senate/6197052-thom-tillis-pete-hegseth-reckoning/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "8e562b1ed2ad37f73049",
-    "title": "Thune: Republicans 'will not stand idly by' under Democratic majority",
-    "summary": "Senate Majority Leader John Thune (R-S.D.) declared early Wednesday morning that Republicans \"will not stand idly by\" as Democrats try to reverse the actions of President Trump’s first two years in office by raising taxes or restoring spending cuts to popular programs. And Thune expressed his gratitude that Trump will still be in office over...",
-    "published_at": "2026-11-04T12:39:15Z",
-    "source_url": "https://thehill.com/homenews/senate/6197030-john-thune-2026-midterms-democratic-victories/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "4e3dc5681145a5d2c322",
-    "title": "Mississippi Senate race too close to call",
-    "summary": "Mississippi’s Senate race remained too close to call early Wednesday, with Democratic challenger Scott Colom holding a razor-thin lead over Sen. Cindy Hyde-Smith (R) of less than 1 percentage point. With nearly all ballots counted, Colom led Hyde-Smith by a little more than 2,000 votes — 461,370 to 459,201 — as of early Wednesday morning,...",
-    "published_at": "2026-11-04T12:13:47Z",
-    "source_url": "https://thehill.com/homenews/campaign/6196987-mississippi-senate-race-too-close-to-call-ddhq/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "43b6aae890f0d264b3b1",
-    "title": "Live updates: Democrats riding high after historic night; GOP searches for answers",
-    "summary": "Democrats will control both the Senate and the House of Representatives come Jan. 3 according to Decision Desk HQ. The exact extent of Democrats' majorities remains to be determined as some key races are still undecided as of early Wednesday. But Democrats picked up most of this year's high-profile contests across the country, including the...",
-    "published_at": "2026-11-04T08:28:58Z",
-    "source_url": "https://thehill.com/homenews/campaign/6188142-live-updates-trump-democrats-congress-control/",
     "source": "The Hill — Senate",
     "category": "國會動態"
   }
