@@ -1,20 +1,182 @@
 [
   {
+    "id": "3fc44e669a17d866314b",
+    "title": "House GOP shelves Pete Hegseth impeachment articles",
+    "summary": "House Republicans on Tuesday shelved a measure spearheaded by outgoing GOP Rep. Thomas Massie (Ky.) that would have led to a vote on impeaching Defense Sec. Pete Hegseth. In a dramatic and tight 211-204 vote, the House voted to refer the resolution to committee, a move that essentially ends efforts to impeach Hegseth over the...",
+    "published_at": "2026-11-10T23:04:49Z",
+    "source_url": "https://thehill.com/policy/defense/6212136-house-shelves-hegseth-impeachment/",
+    "source": "The Hill — House",
+    "category": "國會動態"
+  },
+  {
+    "id": "b79bb25e13ca26198a8a",
+    "title": "Democrats escalate probe of Trump admin drug pricing deals",
+    "summary": "Congressional Democrats are demanding pharmaceutical companies immediately disclose the un-redacted details of their “most favored nation” agreements with the Trump administration, according to a source familiar with the effort. The request to drugmakers comes from the potential health policy leaders in Congress next year — Democratic Reps. Frank Pallone Jr. (N.J.) of the Energ",
+    "published_at": "2026-11-10T22:12:41Z",
+    "source_url": "https://thehill.com/policy/healthcare/6212045-democrats-demand-mfn-drug-details/",
+    "source": "The Hill — House",
+    "category": "國會動態"
+  },
+  {
+    "id": "0ea33be2df7adaa09ee2",
+    "title": "Cornyn: Talarico will have 'interesting time navigating a red state as a Democrat'",
+    "summary": "Sen. John Cornyn (R-Texas) said he would do all he could to help Sen.-elect James Talarico during the transition after the incumbent and his successor met on Capitol Hill for the first time post-election. “I told him I’ll be happy to help him all I can during the transition,” Cornyn told TMZ. “It’s normal. It...",
+    "published_at": "2026-11-10T22:07:12Z",
+    "source_url": "https://thehill.com/the-120/6212040-cornyn-talarico-senate-transition/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "4a93a4b6e811389d960a",
+    "title": "Garcia lists Wiles among 4 former officials facing congressional probes",
+    "summary": "Rep. Robert Garcia (D-Calif.), most likely the incoming House Oversight and Government Reform Committee Chair, said Tuesday that former White House chief of staff Susie Wiles will face a congressional investigation in the next Congress. “We’re already looking at Susie Wiles,” the Golden State Democrat told reporters on Tuesday. “I mean, first let’s go back...",
+    "published_at": "2026-11-10T21:53:33Z",
+    "source_url": "https://thehill.com/the-120/6211987-garcia-to-investigate-susie-wiles/",
+    "source": "The Hill — House",
+    "category": "國會動態"
+  },
+  {
+    "id": "fa4c2a308ffe4f3b1d6a",
+    "title": "Tillis 'leaning toward' impeaching Hegseth if articles reach Senate",
+    "summary": "Outgoing Sen. Thom Tillis (R-N.C.) said Tuesday he’s prepared to vote to oust Defense Secretary Pete Hegseth should the House pass an impeachment resolution against the Pentagon chief this week, setting up the Senate for a full trial. “If it comes over, if there’s a vote, I’m likely to vote against Hegseth and for the...",
+    "published_at": "2026-11-10T21:23:30Z",
+    "source_url": "https://thehill.com/policy/defense/6211868-tillis-hegseth-impeachment-dod-pentagon/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "e4fb5596f20c848c022a",
+    "title": "Thune elected Senate GOP leader after bruising showdown with critics",
+    "summary": "Sen. John Thune (S.D.) won re-election to serve another term as Senate Republican leader on Tuesday after a bruising showdown with conservative critics in the Senate Republican conference. A Senate GOP aide announced late in the afternoon that Thune had been re-elected as leader “by acclamation,” despite objections raised by a handful of GOP senators...",
+    "published_at": "2026-11-10T20:58:12Z",
+    "source_url": "https://thehill.com/homenews/senate/6211797-john-thune-senate-leader-reelected/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "fcb421b7190053028c62",
+    "title": "Hyde-Smith 'feeling very optimistic' despite trailing in Mississippi vote count",
+    "summary": "Mississippi Sen. Cindy Hyde-Smith (R) is “feeling very optimistic” about her reelection odds despite her Democratic challenger, Scott Colom, narrowly leading her in the Senate race with over 95 percent of the vote counted as of Tuesday. “We got a few thousand out so we’re feeling very optimistic,” the incumbent senator told CBS News’s Caitlin...",
+    "published_at": "2026-11-10T20:35:27Z",
+    "source_url": "https://thehill.com/homenews/campaign/6211683-hyde-smith-optimistic-mississippi-election/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "c01ee24adebc3524f683",
+    "title": "Schumer says Trump support of Nvidia CEO a 'dereliction of duty'",
+    "summary": "Senate Minority Leader Chuck Schumer (D-N.Y.) slammed President Trump over his association with Nvidia CEO Jensen Huang following reports about the tech leader having an intimate relationship with alleged Chinese spy Alice Huang. “The press reports that Trump was briefed more than a year ago that Nvidia’s CEO was having an affair with a suspected...",
+    "published_at": "2026-11-10T20:23:27Z",
+    "source_url": "https://thehill.com/policy/national-security/6211619-schumer-slams-trump-nvidia-ceo/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "feaaf89db05b9637e268",
+    "title": "Key Democrats shrug off Trump's wind comments: 'We chalk that up to him being 80'",
+    "summary": "Key Democratic negotiators on Tuesday shrugged off President Trump’s Monday remarks that he would not approve wind projects despite his support for a bipartisan bill that seeks to boost all forms of energy. The bill in question, which aims to ease the path forward for various forms of energy including renewables and fossil fuels, cleared...",
+    "published_at": "2026-11-10T20:14:27Z",
+    "source_url": "https://thehill.com/policy/energy-environment/6211611-trump-wind-turbines-bipartisan-permitting-reform-bill/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "9f2456d9a7f4cf3f08f9",
+    "title": "Admiral fired by Hegseth now backs his impeachment as incoming House member",
+    "summary": "Nancy Lacore, a former three-star Navy admiral whom Defense Secretary Pete Hegseth fired last year, is joining the wave of lawmakers — both newly-elected and sitting — pushing for the Pentagon chief's impeachment after winning South Carolina’s 1st Congressional District last week. “Pete Hegseth is the most unqualified secretary that this nation has seen,\" Lacore...",
+    "published_at": "2026-11-10T20:06:26Z",
+    "source_url": "https://thehill.com/the-120/6211457-admiral-fired-by-hegseth-now-backs-his-impeachment-as-incoming-house-member/",
+    "source": "The Hill — House",
+    "category": "國會動態"
+  },
+  {
+    "id": "d5e1bfa495d232472165",
+    "title": "Live updates: Senate GOP elects Thune as leader; House GOP picks Jordan",
+    "summary": "Sen. John Thune (R-S.D.) won reelection to serve another term as Senate Republican leader on Tuesday. Meanwhile, House Republicans elected Rep. Jim Jordan (R-Ohio) to lead their conference in the next Congress. House GOP Whip Tom Emmer (R-Minn.) was elected to be minority whip once Democrats take the majority, and Rep. Lisa McClain (R-Mich.) was...",
+    "published_at": "2026-11-10T20:05:00Z",
+    "source_url": "https://thehill.com/homenews/administration/6209586-live-updates-trump-hegseth-impeachment-iran-war-midterms-gop-leadership-elections/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "06e4e0ac3b22a9bf861d",
+    "title": "Tom Emmer beats August Pfluger to be minority whip",
+    "summary": "House GOP Whip Tom Emmer (R-Minn.) defeated Republican Study Committee Chair (RSC) August Pfluger (R-Texas) to be minority whip in the next Congress. Emmer has been serving as the majority whip since 2023 and previously chaired the National Republican Congressional Committee. Emmer faced a difficult balancing act in navigating the GOP’s razor-thin majority, with conservative...",
+    "published_at": "2026-11-10T20:00:13Z",
+    "source_url": "https://thehill.com/the-120/6211380-tom-emmer-wins-gop-whip/",
+    "source": "The Hill — House",
+    "category": "國會動態"
+  },
+  {
+    "id": "8bb1dbb14fa177e4fa83",
+    "title": "Watch live: Senate Republicans give remarks after pause on leadership elections",
+    "summary": "Senate Republicans are set to deliver remarks Tuesday after delaying their leadership elections amid growing frustration over the party’s bruising midterm losses. Republicans huddled behind closed doors for nearly two hours as conservatives pressed Senate Majority Leader John Thune (R-S.D.) for a plan to navigate the lame-duck session and the incoming Democratic majority. Thune",
+    "published_at": "2026-11-10T19:30:56Z",
+    "source_url": "https://thehill.com/video-clips/6211465-watch-live-senate-gop-press-conference-leadership-elections-midterms/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "bb5bb2ee73a1a35f68a4",
+    "title": "Most Americans want new Democratic Congress to end Trump’s Iran war, poll finds",
+    "summary": "A new Reuters/Ipsos poll found that 71% of Americans want Congress to pass legislation ending the conflict with Iran.",
+    "published_at": "2026-11-10T19:29:39Z",
+    "source_url": "https://www.defensenews.com/global/mideast-africa/2026/11/10/most-americans-want-new-democratic-congress-to-end-trumps-iran-war-poll-finds/",
+    "source": "Defense News — Congress",
+    "category": "國會動態"
+  },
+  {
+    "id": "88dbf5d9b93a69bf5cfa",
+    "title": "Jim Jordan elected minority leader by House GOP",
+    "summary": "House Republicans elected Rep. Jim Jordan (R-Ohio) on Tuesday to lead their diminished conference in the next Congress, marking an extraordinary leap for a conservative icon who made his name on Capitol Hill antagonizing party leaders. Jordan defeated Rep. Steve Scalise (R-La.), the outgoing House majority leader, in a closed-door election in the bowels of...",
+    "published_at": "2026-11-10T19:22:35Z",
+    "source_url": "https://thehill.com/the-120/6211341-republicans-elect-jim-jordan-minority-leader/",
+    "source": "The Hill — House",
+    "category": "國會動態"
+  },
+  {
+    "id": "28beb94ebd147228ebf8",
+    "title": "Pelosi advises against kicking Stevens out of House Democratic caucus",
+    "summary": "Former House Speaker Nancy Pelosi (D-Calif.) on Tuesday advised her colleagues against booting Rep. Haley Stevens (D-Mich.) out of the House Democratic caucus before the 120th Congress starts, ushering in a new year of Democratic control in the legislative branch. \"Well, we have about three more weeks or two more weeks of being in the...",
+    "published_at": "2026-11-10T19:01:57Z",
+    "source_url": "https://thehill.com/homenews/house/6211133-pelosi-advises-against-kicking-stevens-out-of-house-democratic-caucus/",
+    "source": "The Hill — House",
+    "category": "國會動態"
+  },
+  {
+    "id": "862bde1a282e78a6c097",
+    "title": "Warnock ducks questions about backing Schumer as Senate majority leader",
+    "summary": "Sen. Raphael Warnock (D-Ga.) isn't committing to backing Sen. Chuck Schumer as Senate majority leader, repeatedly dodging questions about whether he'd support the New York Democrat in a leadership election. The lawmaker appeared on \"The Breakfast Club\" on Monday and declined multiple times to directly answer questions from the nationally syndicated radio show's co-host, Charlam",
+    "published_at": "2026-11-10T18:28:03Z",
+    "source_url": "https://thehill.com/blogs/in-the-know/6211082-warnock-schumer-senate-majority-leader-breakfast-club/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "32d881df5d3b9acfada4",
+    "title": "Khanna calls on Congress to ban sports prediction markets",
+    "summary": "California Rep. Ro Khanna (D) on Tuesday called on Congress to ban sports prediction markets, raising concerns about how they “fuel addiction” and expose the American youth to “public health risks.” “Sports prediction markets are sports betting disguised as financial trading. They flout state and tribal gambling laws, siphon state tax revenues, fuel addiction, and...",
+    "published_at": "2026-11-10T18:23:28Z",
+    "source_url": "https://thehill.com/policy/sports-gaming/6211275-khanna-calls-sports-betting-ban/",
+    "source": "The Hill — House",
+    "category": "國會動態"
+  },
+  {
+    "id": "fd974dbdf66bd71c2072",
+    "title": "Ruiz: 'Medicare for All' not a 'realistic expectation' in next Congress",
+    "summary": "Rep. Raul Ruiz (D-Calif.) indicated on Tuesday that passing “Medicare for All” may not be an attainable goal for the next Congress, despite a progressive push to institute a universal single-payer health insurance system after Democrats take control of both chambers in January. “I don’t think it’s going to be realistic, and I don’t think...",
+    "published_at": "2026-11-10T18:21:24Z",
+    "source_url": "https://thehill.com/policy/healthcare/6211265-ruiz-medicare-all-unrealistic/",
+    "source": "The Hill — House",
+    "category": "國會動態"
+  },
+  {
     "id": "86c693db0d1313c507f5",
     "title": "Vance denounces Hegseth impeachment push: 'This isn't about Iran'",
     "summary": "Vice President Vance on Tuesday condemned the impeachment push against Defense Secretary Pete Hegseth, saying lawmakers are actually mad at Hegseth for taking on Pentagon bureaucracy, not the Iran war. “Has Pete Hegseth committed impeachable crimes? The question is absurd and the answer is: obviously not,” Vance wrote on the social media platform X. Vance...",
     "published_at": "2026-11-10T17:41:06Z",
     "source_url": "https://thehill.com/homenews/administration/6211107-vance-defends-hegseth-against-impeachment-effort/",
     "source": "The Hill — House",
-    "category": "國會動態"
-  },
-  {
-    "id": "d5e1bfa495d232472165",
-    "title": "Live updates: Senate GOP hits pause on leadership vote; Hegseth rips impeachment threat as ‘stunt'",
-    "summary": "Senate Republicans suspended their leadership election Tuesday amid calls for a delay following Democrats' sweeping midterm victories last week. Republicans in the House, meanwhile, are holding a candidate forums this morning, with the final leadership vote expected later Tuesday. Earlier Tuesday, Defense Secretary Pete Hegseth ripped a looming impeachment threat at a presser, ",
-    "published_at": "2026-11-10T16:25:00Z",
-    "source_url": "https://thehill.com/homenews/administration/6209586-live-updates-trump-hegseth-impeachment-iran-war-midterms-gop-leadership-elections/",
-    "source": "The Hill — Senate",
     "category": "國會動態"
   },
   {
@@ -563,87 +725,6 @@
     "summary": "Two House Democrats are already floating the impeachment of Attorney General Todd Blanche after the GOP’s sweeping midterm election defeats, suggesting Democrats could win enough Republican support in the Senate to remove him from office. Reps. Hank Johnson (D-Ga.) and Deborah Ross (D-N.C.) voiced their support for impeaching Blanche on Thursday, just two days after...",
     "published_at": "2026-11-06T02:08:29Z",
     "source_url": "https://thehill.com/homenews/house/6203031-house-democrats-push-blanche-impeachment/",
-    "source": "The Hill — House",
-    "category": "國會動態"
-  },
-  {
-    "id": "b71320cae3fbbf67e728",
-    "title": "Top GOP House lawmakers want Nvidia's Jensen Huang to come to Congress",
-    "summary": "Republican Reps. John Moolenaar (Mich.), Brian Mast (Fla.) and Rick Crawford (Ark.) sent a letter to Nvidia CEO Jensen Huang on Wednesday, following reports he sent intelligence to China. The GOP lawmakers requested that the CEO appear in a joint, closed-door briefing on Nov. 18 to address concerns regarding Nvidia’s “security protocols against foreign adversary...",
-    "published_at": "2026-11-05T22:58:34Z",
-    "source_url": "https://thehill.com/policy/technology/6202702-gop-summons-nvidia-ceo-huang/",
-    "source": "The Hill — House",
-    "category": "涉台／涉中"
-  },
-  {
-    "id": "73f4ced56da71c4f4d65",
-    "title": "Scalise directs GOP chairs to start 'taking inventory' of coming Democratic investigations",
-    "summary": "House Majority Leader Steve Scalise (R-La.) encouraged his GOP colleagues to “maximize our remaining days in power” by preparing for an expected onslaught of Democratic investigations. In a letter to GOP committee chairs, Scalise said the party needs to begin “taking inventory” of expected Democratic probes, asking the group to also assemble a list of...",
-    "published_at": "2026-11-05T22:55:45Z",
-    "source_url": "https://thehill.com/homenews/house/6202747-democrats-prepare-trump-probes/",
-    "source": "The Hill — House",
-    "category": "國會動態"
-  },
-  {
-    "id": "39842ead06a83705f653",
-    "title": "Sean Casten launches bid for House Financial Services chair",
-    "summary": "Rep. Sean Casten (D-Ill.) has formally launched a bid to chair the House Financial Services Committee, setting up a challenge to the panel's longtime Democratic leader, Rep. Maxine Waters (D-Calif.). In a letter to his Democratic colleagues Thursday, Casten asked for their support as he seeks the gavel in the new Congress. Democrats are set...",
-    "published_at": "2026-11-05T22:19:15Z",
-    "source_url": "https://thehill.com/business/6202574-casten-challenges-waters-financial-services/",
-    "source": "The Hill — House",
-    "category": "國會動態"
-  },
-  {
-    "id": "4930afe552e9b54afd69",
-    "title": "Trump adviser calls for alternative to Thune for Senate GOP leader",
-    "summary": "President Trump adviser Alex Bruesewitz publicly called on Senate Republicans to look beyond Majority Leader John Thune (R-S.D.) Thursday, accusing the party of “rewarding failure” after sweeping midterm losses. “Why do Hill Republicans insist on rewarding failure? He’s not exactly in touch with the interests of Republican voters,” Bruesewitz wrote on the social platform X....",
-    "published_at": "2026-11-05T22:10:45Z",
-    "source_url": "https://thehill.com/homenews/senate/6202589-trump-adviser-calls-gop-revolt/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "b80081e7cdd392ad75e7",
-    "title": "Van Hollen not running for Senate majority leader, source says",
-    "summary": "Sen. Chris Van Hollen (D-Md.) is not planning to challenge Sen. Chuck Schumer (D-N.Y.) for Senate majority leader, a source close to Van Hollen told NewsNation, The Hill’s partner network. “Prior to selecting a majority leader, Senator Van Hollen believes the caucus needs to have an honest and open conversation about how we move an...",
-    "published_at": "2026-11-05T21:06:57Z",
-    "source_url": "https://thehill.com/homenews/senate/6202343-van-hollen-not-challenging-schumer/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "f68e4b7b86460605941f",
-    "title": "Dem senator presses call for Kennedy to 'resign or be fired' after election",
-    "summary": "Sen. Angela Alsobrooks (D-Md.) renewed her call for Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. to be removed from office Wednesday — more than a year after she joined fellow Democrats in demanding his ouster over the HHS secretary’s handling of the nation’s public health agencies. “The time is now. RFK Jr....",
-    "published_at": "2026-11-05T20:04:40Z",
-    "source_url": "https://thehill.com/homenews/senate/6202130-alsobrooks-calls-rfk-jr-resign/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "ccc04b170f1adf552d7e",
-    "title": "Sanders calls for Democrats to pass 'Medicare for All'",
-    "summary": "Sen. Bernie Sanders (I-Vt.) on Thursday called for Democrats to pass \"Medicare for All\" when they take control of the Senate in January. “Healthcare must be considered as a human right, not a privilege. That means passing Medicare for All legislation now supported by 66 percent of the American people,” Sanders said in a video. Sanders...",
-    "published_at": "2026-11-05T19:15:49Z",
-    "source_url": "https://thehill.com/homenews/senate/6201914-sanders-calls-medicare-all/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "a9efa752034d3e107816",
-    "title": "El-Sayed says he'd back Van Hollen as majority leader over Schumer",
-    "summary": "Abdul El-Sayed, Michigan’s newly elected Democratic senator, reupped his calls Thursday morning for Sen. Chris Van Hollen (D-Md.) to become Senate majority leader over current Minority Leader Chuck Schumer (D-N.Y.) In an interview on “CNN News Central,” El-Sayed echoed his May endorsement of the Maryland senator for the role. “I’ve been very clear: I think...",
-    "published_at": "2026-11-05T18:40:44Z",
-    "source_url": "https://thehill.com/homenews/senate/6201684-el-sayed-van-hollen-majority-leader/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "96e1188b3093d7f16f30",
-    "title": "Stevens pulls out of election analysis event at DC university",
-    "summary": "Rep. Haley Stevens (D-Mich.) will no longer appear as a panelist at a George Washington University postelection analysis event Thursday, just a few days after she controversially endorsed the Republican candidate in the Michigan Senate race. Stevens was set to appear alongside CNN’s Manu Raju; Rep. Jamie Raskin (D-Md.); Inside Elections editor Nathan Gonzales; Morris...",
-    "published_at": "2026-11-05T18:36:55Z",
-    "source_url": "https://thehill.com/homenews/campaign/6201679-haley-stevens-gwu-panel-canceled/",
     "source": "The Hill — House",
     "category": "國會動態"
   }
