@@ -1,5 +1,41 @@
 [
   {
+    "id": "64ae14990d10192d39f4",
+    "title": "Colom extends slim lead over Hyde-Smith in Mississippi Senate race",
+    "summary": "Mississippi Senate candidate Scott Colom (D) extended his slim lead by more than 3,000 votes over Sen. Cindy Hyde-Smith (R-Miss.) ahead of two crucial ballot deadlines in the week after Democrats saw sweeping victories in the midterm elections. The Hill's election partner Decision Desk HQ (DDHQ) found that, with around 95 percent of ballots counted,...",
+    "published_at": "2026-11-11T12:55:33Z",
+    "source_url": "https://thehill.com/homenews/campaign/6212685-mississippi-senate-race-scott-colom-cindy-hyde-smith-update/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "13efd5011a4dc4ffbcaa",
+    "title": "Nvidia spy scandal could reshape fight over AI chips and China",
+    "summary": "Nvidia CEO Jensen Huang's relationship with an alleged Chinese spy is putting a microscope on the company's influence on AI chip policy in Washington and throwing new momentum behind a trio of bills aiming to place restrictions on chip sales abroad. Huang's disclosure of his affair with a Chinese businessperson, who U.S. officials concluded was...",
+    "published_at": "2026-11-11T11:00:00Z",
+    "source_url": "https://thehill.com/policy/technology/6211351-chip-export-restrictions-momentum-nvidia-huang/",
+    "source": "The Hill — Senate",
+    "category": "涉台／涉中"
+  },
+  {
+    "id": "cdb47be3fb57c5b295f8",
+    "title": "Inside Democrats’ plan to put Wall Street on trial over Jeffrey Epstein",
+    "summary": "Democrats on Capitol Hill are vowing to probe major banks with ties to deceased convicted sex offender Jeffrey Epstein once their new congressional majorities become official in January. Those investigations, Democrats say, will provide insight into whether executives at financial institutions, such as JPMorgan Chase, Deutsche Bank and Bank of America, were aware of or...",
+    "published_at": "2026-11-11T11:00:00Z",
+    "source_url": "https://thehill.com/business/6211277-democrats-probe-epstein-bank-ties/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "09113aecf669c70b1adf",
+    "title": "Jordan looks to move Republicans beyond midterm rout",
+    "summary": "House Republicans on Tuesday tapped Rep. Jim Jordan (R-Ohio) to lead their diminished conference in the next Congress, betting that a conservative spitfire — and onetime leadership nemesis — can restore the fight to a party battered by the midterms and scrambling for a path back to power. In brief comments right out of the...",
+    "published_at": "2026-11-11T11:00:00Z",
+    "source_url": "https://thehill.com/the-120/6212145-jim-jordan-house-gop-future-midterms/",
+    "source": "The Hill — House",
+    "category": "國會動態"
+  },
+  {
     "id": "82e834d47a63012ed88a",
     "title": "House Democrat says traffic incident prevented her and others from voting on Hegseth impeachment",
     "summary": "Rep. Melanie Stansbury (D-N.M.) said Tuesday that she and other lawmakers were unable to reach the Capitol in time to vote against a Republican effort to block the impeachment of Defense Secretary Pete Hegseth because of a traffic incident and a police escort. “Like other Members of Congress, Rep. Stansbury was blocked from entering the...",
@@ -699,42 +735,6 @@
     "published_at": "2026-11-06T16:50:08Z",
     "source_url": "https://thehill.com/homenews/education/6204242-house-democrats-majority-education-agenda-trump/",
     "source": "The Hill — House",
-    "category": "國會動態"
-  },
-  {
-    "id": "fd75e720026bbde1e6ba",
-    "title": "Andrews: Time for 'generational change' in Senate leadership",
-    "summary": "Sen.-elect Annie Andrews (D), who won a stunning victory in deep-red South Carolina by defeating Sen. Darline Graham (R-S.C.), says there needs to be “generational change” in the Senate leadership. “I still very much believe it’s time for a generational change on both sides of the aisle,” Andrews told Fox News anchor Bret Baier, appearing...",
-    "published_at": "2026-11-06T13:54:52Z",
-    "source_url": "https://thehill.com/homenews/senate/6203427-annie-andrews-south-carolina-senate-leadership-overhaul-midterms/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "f40943420576acb1ed9d",
-    "title": "Schumer vows Senate Democrats would block any 'right-winger' Trump Supreme Court nominee",
-    "summary": "Senate Democratic Leader Chuck Schumer (N.Y.) says Democrats would block any “right-winger” President Trump attempts to appoint to the Supreme Court after they take control of the Senate, which could ramp up pressure on conservative Justices Samuel Alito and Clarence Thomas to retire this year. “The bottom line is we’re not going to allow a...",
-    "published_at": "2026-11-06T12:59:55Z",
-    "source_url": "https://thehill.com/homenews/senate/6203353-chuck-schumer-donald-trump-supreme-court/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "2d5ec90fd0d502850fac",
-    "title": "GOP’s lame-duck plans unravel after election drubbing",
-    "summary": "Republicans’ hopes of finishing a big chunk of President Trump’s agenda in the lame-duck session of Congress are rapidly deflating in the wake of the blowout losses their party suffered in Tuesday’s election, according to Republican aides on Capitol Hill. Senate Republican sources say the bold talk before Election Day of ramming a budget reconciliation...",
-    "published_at": "2026-11-06T11:00:00Z",
-    "source_url": "https://thehill.com/homenews/senate/6202573-gop-loses-hope-trump-agenda/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "c7d7da88b445e0264b0c",
-    "title": "Democrats rode rural frustration to Senate wins. Now farmers want results",
-    "summary": "Democrats flipped Senate seats in previously deep-red territory such as Kansas and Texas in part by criticizing Trump administration policies that helped create high diesel and beef costs. Now they're going to be under pressure to deliver for farmers, who want the party to put words into actions once they take control of the House...",
-    "published_at": "2026-11-06T11:00:00Z",
-    "source_url": "https://thehill.com/business/6202564-farmers-demand-congressional-action-democratic-wins/",
-    "source": "The Hill — Senate",
     "category": "國會動態"
   }
 ]
