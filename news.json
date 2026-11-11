@@ -1,5 +1,122 @@
 [
   {
+    "id": "0d2f372e1915d11329dd",
+    "title": "Lankford says GOP will defer to Trump on next immigration push",
+    "summary": "Sen. James Lankford (R-Okla.), who is poised to be a key player in any bipartisan immigration reform efforts in the next Congress, said he’s waiting for a signal from President Trump about what provisions to include. “The president has already said he wants to do something. I don't know what that would be,” Lankford told...",
+    "published_at": "2026-11-11T21:03:28Z",
+    "source_url": "https://thehill.com/the-120/6214383-senate-immigration-reform-bipartisan-push/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "f776698370ed49e08d9d",
+    "title": "Senate Democrat presses Trump administration on Megaspeed probe following Alice Huang allegations",
+    "summary": "Democratic Sen. Michael Bennet (Colo.) is pressing intelligence and commerce leaders in the Trump administration on its investigation into the cloud computing and data center firm Megaspeed following reports the Commerce Department paused their investigation into the company last year. Bennet, in a letter sent Tuesday, asked the heads of the departments of Justice (DOJ),...",
+    "published_at": "2026-11-11T20:52:06Z",
+    "source_url": "https://thehill.com/policy/technology/6214107-bennet-pushes-megaspeed-probe/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "0389aeb3a116f5f03005",
+    "title": "Sanders: 'I will support' Van Hollen for majority leader if he runs",
+    "summary": "Sen. Bernie Sanders (I-Vt.) said he would support Sen. Chris Van Hollen (D-Md.) for majority leader if he chose to run following the independent saying he would not back Senate Minority Leader Chuck Schumer (D-N.Y.) for the leadership role. “Look, I have known Chuck Schumer for a very long time. Actually, Chuck and I grew...",
+    "published_at": "2026-11-11T20:20:43Z",
+    "source_url": "https://thehill.com/the-120/6214240-sanders-supports-van-hollen/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "0e152d4aaa57c8eecce7",
+    "title": "Rand Paul plans to be top Republican on Senate health committee",
+    "summary": "Sen. Rand Paul (R-Ky.) said Wednesday he is seeking the top GOP spot on the powerful Senate health committee next Congress, a move that would likely signal a major shift for the focus of Republicans on the panel. Paul, an ophthalmologist, is the most senior Republican on the panel. He is currently the chair of the...",
+    "published_at": "2026-11-11T20:06:23Z",
+    "source_url": "https://thehill.com/the-120/6214202-rand-paul-seeks-gop-help-leadership/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "5c78305d9db299656dbf",
+    "title": "Watch live: Johnson, Jeffries lead Veterans Day tribute at Capitol",
+    "summary": "House Speaker Mike Johnson (R-La.) and House Minority Leader Hakeem Jeffries (D-N.Y.) will lead a bipartisan, all-member Veterans Day ceremony from the steps of the Capitol on Wednesday, honoring U.S. service members past and present. The tribute comes a week after Democrats' sweeping midterm victories. House Republicans elected their leaders for the 120th Congress a...",
+    "published_at": "2026-11-11T19:06:31Z",
+    "source_url": "https://thehill.com/video-clips/6213933-watch-live-house-veterans-day-tribute-johnson-jeffries-midterms/",
+    "source": "The Hill — House",
+    "category": "國會動態"
+  },
+  {
+    "id": "8b3b8f09cf34181e2e9e",
+    "title": "Senate committee sets key vote for Trump FDA nominee",
+    "summary": "The Senate Health Committee scheduled a key vote next week for Dr. Heidi Overton to serve as commissioner of the Food and Drug Administration (FDA), even as her path forward is not assured. According to a committee press release, the vote on Overton’s nomination is scheduled for Nov. 18. The committee will also vote on...",
+    "published_at": "2026-11-11T18:54:12Z",
+    "source_url": "https://thehill.com/policy/healthcare/6213972-senate-health-overton-vote/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "2e1d4fd1707ad757d891",
+    "title": "Jim Justice says GOP can 'forget' retaking Senate majority in 2028",
+    "summary": "Sen. Jim Justice (R-W.Va.) says his party can “forget” about retaking the Senate majority in 2028 just a week after brutal losses for Republicans on deep-red turf. “You can forget 2028. Absolutely,” Justice told the Washington Examiner. “This is such a colossal blow that it is beyond belief how colossal this is to America.” Democrats...",
+    "published_at": "2026-11-11T18:21:12Z",
+    "source_url": "https://thehill.com/homenews/senate/6213842-justice-gop-senate-majority-2028/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "9bbdaf98007ad4836e54",
+    "title": "Watch live: House Freedom Caucus charts path forward after GOP midterm losses",
+    "summary": "Members of the House Freedom Caucus will hold a news conference Wednesday as Republicans grapple with sweeping midterm losses that cost them control of both chambers of Congress. The group, often regarded as the most right-leaning bloc in the lower chamber, is pushing GOP leaders to make one final legislative push before Democrats take power...",
+    "published_at": "2026-11-11T16:24:08Z",
+    "source_url": "https://thehill.com/video-clips/6213328-watch-house-freedom-caucus-gop-midterm-losses/",
+    "source": "The Hill — House",
+    "category": "國會動態"
+  },
+  {
+    "id": "411c46ded2b4dd4b7bdc",
+    "title": "House Democrat: 'Mr. Hegseth's days are numbered'",
+    "summary": "Rep. Madeleine Dean (D-Pa.) on Tuesday evening issued a stark warning to Defense Secretary Pete Hegseth after House Republicans shelved an effort to impeach the Pentagon chief. “I think Mr. Hegseth’s days are numbered,” Dean told NewsNation’s Jackie Koppell. “Whether it’s by impeachment or the president removing him or his own resignation, his days are...",
+    "published_at": "2026-11-11T16:07:03Z",
+    "source_url": "https://thehill.com/homenews/house/6213391-house-democrat-madeleine-dean-pete-hegseth-warning-impeachment/",
+    "source": "The Hill — House",
+    "category": "國會動態"
+  },
+  {
+    "id": "0d0210d29fe496518a06",
+    "title": "‘I would vote to impeach’ Hegseth, says Marjorie Taylor Greene",
+    "summary": "“If I were in Congress today, I would vote to impeach,\" Greene said.",
+    "published_at": "2026-11-11T15:24:45Z",
+    "source_url": "https://thehill.com/homenews/administration/6212080-marjorie-taylor-greene-donald-trump-pete-hegseth-impeachment-effort/",
+    "source": "The Hill — House",
+    "category": "國會動態"
+  },
+  {
+    "id": "57b240992db346ebe908",
+    "title": "White House pushes back on Democrats, saying investigations could 'cross the line' into crime",
+    "summary": "The White House has floated that it may seek to investigate the investigators in the incoming Congress, writing Monday in a letter to Democrats on the House Oversight and Government Reform Committee that their probes “may cross the line into blatant criminality.” The letter showcases the Trump administration's aggressive stance toward coming investigations from congressional...",
+    "published_at": "2026-11-11T14:39:24Z",
+    "source_url": "https://thehill.com/homenews/administration/6213006-white-house-targets-democrat-congressional-investigators/",
+    "source": "The Hill — House",
+    "category": "國會動態"
+  },
+  {
+    "id": "8cb460d914de8b8face6",
+    "title": "House Democrat rips colleagues who missed Hegseth vote: 'Shameful'",
+    "summary": "Democratic Rep. Sydney Kamlager-Dove (Calif.) on Tuesday evening decried the 11 members of her party who missed a House vote to advance impeachment proceedings against Defense Secretary Pete Hegseth. House Republicans effectively tabled the measure, with the chamber voting 211-204 to refer the resolution to committee. No Democrats voted against advancing the measure in the...",
+    "published_at": "2026-11-11T14:29:31Z",
+    "source_url": "https://thehill.com/homenews/house/6212860-house-democrat-kamlager-dove-hegseth-impeachment-vote/",
+    "source": "The Hill — House",
+    "category": "國會動態"
+  },
+  {
+    "id": "7fe0df0ebd5439b294ba",
+    "title": "Peltola surpasses combined Dan Sullivan votes after latest drop",
+    "summary": "Editor's note: This story has been updated to accurately reflect Dan J. Sullivan's standing in the Alaska Senate race Former Rep. Mary Peltola (D-Alaska) on Tuesday surpassed the combined vote total of Sen. Dan Sullivan (R-Alaska) and independent Dan J. Sullivan following the latest ballot drop in the to-be-determined Senate race. Peltola expanded her narrow...",
+    "published_at": "2026-11-11T14:12:14Z",
+    "source_url": "https://thehill.com/homenews/campaign/6212734-peltola-leads-both-dan-sullivans-alaska-senate-race-2026/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
     "id": "64ae14990d10192d39f4",
     "title": "Colom extends slim lead over Hyde-Smith in Mississippi Senate race",
     "summary": "Mississippi Senate candidate Scott Colom (D) extended his slim lead by more than 3,000 votes over Sen. Cindy Hyde-Smith (R-Miss.) ahead of two crucial ballot deadlines in the week after Democrats saw sweeping victories in the midterm elections. The Hill's election partner Decision Desk HQ (DDHQ) found that, with around 95 percent of ballots counted,...",
@@ -672,69 +789,6 @@
     "published_at": "2026-11-07T00:08:20Z",
     "source_url": "https://thehill.com/homenews/senate/6205607-hyde-smith-colom-mississippi-senate/",
     "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "be73d248fe23c33ae94d",
-    "title": "Chris Murphy to miss 'several weeks' of votes for stroke recovery",
-    "summary": "Sen. Chris Murphy (D-Conn.) said in a statement Friday that he was discharged from the Johns Hopkins Hospital and will spend several weeks at a rehabilitation center as he recovers from a stroke. Murphy will miss “the next several weeks of votes” as he continues his recovery. The senator said he was diagnosed with a...",
-    "published_at": "2026-11-06T20:05:14Z",
-    "source_url": "https://thehill.com/homenews/senate/6204922-senator-chris-murphy-stroke-recovery/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "54f2cb2bf9a65a587d86",
-    "title": "Jay Rockefeller, former West Virginia governor and US senator who was part of a dynasty, dies at 89",
-    "summary": "CHARLESTON, W.Va. (AP) — Jay Rockefeller, the last member of his family’s political dynasty — and the only Democrat — who served as West Virginia’s governor and later a longtime U.S. senator, has died. He was 89. Rockefeller died Thursday night at his home in Washington, said Mary Stewart, vice president for external affairs at...",
-    "published_at": "2026-11-06T20:01:43Z",
-    "source_url": "https://thehill.com/homenews/senate/jay-rockefeller-west-virginia-senator-governor-dies/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "acba11100bdd5fdb6d36",
-    "title": "Johnson, staunch Trump ally, seeks to delay Senate GOP leadership election after big losses",
-    "summary": "Sen. Ron Johnson (R-Wis.) obtained the five signatures he needs from GOP colleagues to request a meeting of the broader Senate Republican Conference to discuss postponing their leadership election, which is scheduled for next week. Johnson, who chairs the Senate Budget Committee, is seeking a delay of the election after an adviser of President Trump...",
-    "published_at": "2026-11-06T19:53:51Z",
-    "source_url": "https://thehill.com/homenews/senate/6204900-ron-johnson-senate-gop-leadership-election-midterm-election-losses/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "393bf96538fecc6b7932",
-    "title": "Democrats flip battleground Michigan House seat, ousting Huizenga",
-    "summary": "Democrat Sean McCann has won Michigan's 4th Congressional District, ousting longtime Rep. Bill Huizenga (R), according to Decision Desk HQ (DDHQ). Huizenga has represented western Michigan in the House for more than a decade. While he easily won his last race in 2024, the district has become more competitive in recent years and was viewed...",
-    "published_at": "2026-11-06T19:05:40Z",
-    "source_url": "https://thehill.com/homenews/campaign/6185341-sean-mccann-wins-michigan-district/",
-    "source": "The Hill — House",
-    "category": "國會動態"
-  },
-  {
-    "id": "1c286cd44cf6a1bd7496",
-    "title": "Comer says 'there's a lot of questions about Hegseth' amid impeachment push",
-    "summary": "Rep. James Comer (R-Ky.), the chair of the powerful House Oversight and Government Reform Committee, said Friday “there’s a lot of questions” in the Republican conference about Defense Secretary Pete Hegseth as Rep. Thomas Massie (R-Ky.) prepares for an impeachment push next week. “Well, that's going to be a decision that President Trump's going to...",
-    "published_at": "2026-11-06T17:52:46Z",
-    "source_url": "https://thehill.com/homenews/house/6204559-comer-questions-hegseth-pentagon/",
-    "source": "The Hill — House",
-    "category": "國會動態"
-  },
-  {
-    "id": "939c6550dd9ce663ad14",
-    "title": "Waters launches bid for House Financial Services chair",
-    "summary": "Democratic Rep. Maxine Waters (Calif.) officially launched her bid for chair of the House Financial Services Committee on Friday, after Democrats won control of the lower chamber in the midterms. In a letter to her Democratic colleagues, Waters — the committee's ranking member — wrote that party lawmakers “must now deliver on our promises to...",
-    "published_at": "2026-11-06T17:00:48Z",
-    "source_url": "https://thehill.com/homenews/house/6204390-maxine-waters-house-financial-chair-bid/",
-    "source": "The Hill — House",
-    "category": "國會動態"
-  },
-  {
-    "id": "4a9d8a1727d46a0af077",
-    "title": "Inside the 3-way race to lead House Democrats' education fight against Trump",
-    "summary": "House Democrats are champing at the bit over who will lead their efforts against the Trump administration's education agenda in the next Congress. Democratic Reps. Suzanne Bonamici (Ore.) and Jahana Hayes (Conn.) are both challenging ranking member Bobby Scott (D-Va.) for chair of the House Education and Workforce Committee as the incoming Democratic majority looks...",
-    "published_at": "2026-11-06T16:50:08Z",
-    "source_url": "https://thehill.com/homenews/education/6204242-house-democrats-majority-education-agenda-trump/",
-    "source": "The Hill — House",
     "category": "國會動態"
   }
 ]
