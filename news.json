@@ -1,8 +1,44 @@
 [
   {
+    "id": "82e834d47a63012ed88a",
+    "title": "House Democrat says traffic incident prevented her and others from voting on Hegseth impeachment",
+    "summary": "Rep. Melanie Stansbury (D-N.M.) said Tuesday that she and other lawmakers were unable to reach the Capitol in time to vote against a Republican effort to block the impeachment of Defense Secretary Pete Hegseth because of a traffic incident and a police escort. “Like other Members of Congress, Rep. Stansbury was blocked from entering the...",
+    "published_at": "2026-11-11T03:09:50Z",
+    "source_url": "https://thehill.com/homenews/house/6212500-stansbury-misses-hegseth-vote/",
+    "source": "The Hill — House",
+    "category": "國會動態"
+  },
+  {
+    "id": "b03b7a119f700bef5fee",
+    "title": "Moreno responds to former son-in-law Miller's re-election loss",
+    "summary": "Sen. Bernie Moreno (R-Ohio) reacted Tuesday to the election loss of his former son-in-law, Rep. Max Miller (R-Ohio), saying he wished the House lawmaker “nothing but, actually, rehabilitation\" — an apparent reference to his high-profile domestic abuse allegations. “Look, as you know, that had nothing to do with politics for me,” Moreno told TMZ DC’s...",
+    "published_at": "2026-11-10T23:46:27Z",
+    "source_url": "https://thehill.com/homenews/senate/6212163-moreno-reacts-miller-defeat-elections/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "3972d6cae0b867d9d8d5",
+    "title": "House Republicans sidestep effort to impeach Hegseth",
+    "summary": "In a 211 to 204 vote, House Republicans sent proposed impeachment articles against Hegseth to the Judiciary Committee, quashing the effort.",
+    "published_at": "2026-11-10T23:31:53Z",
+    "source_url": "https://www.defensenews.com/congress/2026/11/10/house-republicans-sidestep-effort-to-impeach-hegseth/",
+    "source": "Defense News — Congress",
+    "category": "國會動態"
+  },
+  {
+    "id": "d5e1bfa495d232472165",
+    "title": "Live updates: Hegseth impeachment effort fails; GOP picks Thune, Jordan to lead",
+    "summary": "House Republicans on Tuesday shelved a measure led by outgoing GOP Rep. Thomas Massie (Ky.) that would have led to a vote on impeaching Defense Secretary Pete Hegseth. The vote was 211-204, referring the resolution to committee, a move that essentially ends efforts to impeach Hegseth over the Iran war and other issues until the...",
+    "published_at": "2026-11-10T23:20:03Z",
+    "source_url": "https://thehill.com/homenews/administration/6209586-live-updates-trump-hegseth-impeachment-iran-war-midterms-gop-leadership-elections/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
     "id": "3fc44e669a17d866314b",
     "title": "House GOP shelves Pete Hegseth impeachment articles",
-    "summary": "House Republicans on Tuesday shelved a measure spearheaded by outgoing GOP Rep. Thomas Massie (Ky.) that would have led to a vote on impeaching Defense Sec. Pete Hegseth. In a dramatic and tight 211-204 vote, the House voted to refer the resolution to committee, a move that essentially ends efforts to impeach Hegseth over the...",
+    "summary": "House Republicans on Tuesday shelved a measure spearheaded by outgoing Rep. Thomas Massie (R-Ky.) that would have led to a vote on impeaching Defense Secretary Pete Hegseth. In a dramatic and tight 211-204 vote, the House voted to refer the resolution to committee, a move that essentially ends efforts to impeach Hegseth over the Iran...",
     "published_at": "2026-11-10T23:04:49Z",
     "source_url": "https://thehill.com/policy/defense/6212136-house-shelves-hegseth-impeachment/",
     "source": "The Hill — House",
@@ -47,7 +83,7 @@
   {
     "id": "e4fb5596f20c848c022a",
     "title": "Thune elected Senate GOP leader after bruising showdown with critics",
-    "summary": "Sen. John Thune (S.D.) won re-election to serve another term as Senate Republican leader on Tuesday after a bruising showdown with conservative critics in the Senate Republican conference. A Senate GOP aide announced late in the afternoon that Thune had been re-elected as leader “by acclamation,” despite objections raised by a handful of GOP senators...",
+    "summary": "Sen. John Thune (S.D.) won reelection to serve another term as Senate Republican leader Tuesday after a bruising showdown with conservative critics in the Senate Republican conference. A Senate GOP aide announced late in the afternoon that Thune had been reelected as leader “by acclamation,” despite objections raised by a handful of GOP senators over...",
     "published_at": "2026-11-10T20:58:12Z",
     "source_url": "https://thehill.com/homenews/senate/6211797-john-thune-senate-leader-reelected/",
     "source": "The Hill — Senate",
@@ -87,15 +123,6 @@
     "published_at": "2026-11-10T20:06:26Z",
     "source_url": "https://thehill.com/the-120/6211457-admiral-fired-by-hegseth-now-backs-his-impeachment-as-incoming-house-member/",
     "source": "The Hill — House",
-    "category": "國會動態"
-  },
-  {
-    "id": "d5e1bfa495d232472165",
-    "title": "Live updates: Senate GOP elects Thune as leader; House GOP picks Jordan",
-    "summary": "Sen. John Thune (R-S.D.) won reelection to serve another term as Senate Republican leader on Tuesday. Meanwhile, House Republicans elected Rep. Jim Jordan (R-Ohio) to lead their conference in the next Congress. House GOP Whip Tom Emmer (R-Minn.) was elected to be minority whip once Democrats take the majority, and Rep. Lisa McClain (R-Mich.) was...",
-    "published_at": "2026-11-10T20:05:00Z",
-    "source_url": "https://thehill.com/homenews/administration/6209586-live-updates-trump-hegseth-impeachment-iran-war-midterms-gop-leadership-elections/",
-    "source": "The Hill — Senate",
     "category": "國會動態"
   },
   {
@@ -708,24 +735,6 @@
     "published_at": "2026-11-06T11:00:00Z",
     "source_url": "https://thehill.com/business/6202564-farmers-demand-congressional-action-democratic-wins/",
     "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "acee8d0842e63b8c970d",
-    "title": "Hegseth not in consideration for Tennessee Senate",
-    "summary": "Defense Secretary Pete Hegseth is not in consideration to replace Tennessee Gov.-elect Marsha Blackburn (R) in her open Senate seat, a source close to the senator told NewsNation. On Thursday, an Associated Press report, citing a person familiar with the matter who discussed the private conversations on condition of anonymity, stated that Hegseth is not...",
-    "published_at": "2026-11-06T03:36:55Z",
-    "source_url": "https://thehill.com/policy/defense/6203115-hegseth-tennessee-senate-seat-blackburn/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "257e95cf76f5a006407b",
-    "title": "2 House Democrats float idea of Blanche impeachment",
-    "summary": "Two House Democrats are already floating the impeachment of Attorney General Todd Blanche after the GOP’s sweeping midterm election defeats, suggesting Democrats could win enough Republican support in the Senate to remove him from office. Reps. Hank Johnson (D-Ga.) and Deborah Ross (D-N.C.) voiced their support for impeaching Blanche on Thursday, just two days after...",
-    "published_at": "2026-11-06T02:08:29Z",
-    "source_url": "https://thehill.com/homenews/house/6203031-house-democrats-push-blanche-impeachment/",
-    "source": "The Hill — House",
     "category": "國會動態"
   }
 ]
