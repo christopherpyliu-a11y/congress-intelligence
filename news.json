@@ -1,5 +1,104 @@
 [
   {
+    "id": "261e5929a48db865cea0",
+    "title": "House Republican says Huang has agreed to appear before lawmakers",
+    "summary": "Jensen Huang, the tech executive at the center of an alleged Chinese corporate espionage scandal, has agreed to appear before Congress in a closed-door briefing focused on threats to U.S. national security, a top Republican told The Hill on Thursday. Rep. Brian Mast (R-Fla.), the chair of the House Foreign Affairs Committee, said lawmakers are...",
+    "published_at": "2026-11-12T17:33:50Z",
+    "source_url": "https://thehill.com/homenews/house/6216614-jensen-huang-congress-testimony/",
+    "source": "The Hill — House",
+    "category": "國會動態"
+  },
+  {
+    "id": "125d93b8a57dcc9d7405",
+    "title": "House passes Major Richard Star Act, sending bill to Senate",
+    "summary": "The House on Thursday passed legislation designed to allow combat-wounded medically retired veterans to receive retirement pay and disability compensation simultaneously without facing any penalties. The legislation, championed by House Veterans' Affairs Committee ranking member Mark Takano (D-Calif.), was brought to the floor after Democrats successfully garnered 218 signature",
+    "published_at": "2026-11-12T16:08:54Z",
+    "source_url": "https://thehill.com/homenews/house/6215558-house-passes-major-richard-star-act-retired-veterans-compensation/",
+    "source": "The Hill — House",
+    "category": "國會動態"
+  },
+  {
+    "id": "a5a8ea6ff4a2975e37a2",
+    "title": "Watch live: Jeffries speaks as Democrats gear up for House takeover",
+    "summary": "House Minority Leader Hakeem Jeffries (D-N.Y.) will speak to reporters Thursday as Democrats navigate the lame-duck session and prepare to take control of Congress in January. Lawmakers face a looming government funding deadline, a debate over energy permitting reforms, possible investigations and questions about what's next for Defense Secretary Pete Hegseth following a failed",
+    "published_at": "2026-11-12T15:45:00Z",
+    "source_url": "https://thehill.com/video-clips/6215905-watch-live-hakeem-jeffries-leadership-press-conference-postelection-wins-lame-duck-goals/",
+    "source": "The Hill — House",
+    "category": "國會動態"
+  },
+  {
+    "id": "feae18eaff5d5d7d275f",
+    "title": "House Democrat apologizes for missing Hegseth vote: 'There is no one who is more disappointed in myself than me'",
+    "summary": "Rep. Melanie Stansbury (D-N.M.) apologized for missing a vote that would have put the House closer to impeaching Defense Secretary Pete Hegseth. “Well, it is Wednesday, and I am here just off of the House floor. Our colleagues are struggling once again to pass another terrible bill, and I wanted to take a moment during...",
+    "published_at": "2026-11-12T14:51:01Z",
+    "source_url": "https://thehill.com/homenews/house/6215755-stansbury-missed-hegseth-vote/",
+    "source": "The Hill — House",
+    "category": "國會動態"
+  },
+  {
+    "id": "59a2735da3449512baa6",
+    "title": "Stephen Miller 'should be preserving documents': Garcia",
+    "summary": "Rep. Robert Garcia (D-Calif.) on Wednesday warned newly appointed White House chief of staff Stephen Miller that he \"should be preserving documents,\" as the incoming chair of the House Oversight and Government Reform Committee aims to launch sweeping probes into the Trump administration in the new Congress. Garcia, who already warned administration officials to \"lawyer...",
+    "published_at": "2026-11-12T14:16:15Z",
+    "source_url": "https://thehill.com/homenews/house/6215376-garcia-warns-miller-preserve-documents/",
+    "source": "The Hill — House",
+    "category": "國會動態"
+  },
+  {
+    "id": "a01600573c07f3fa745e",
+    "title": "Senate Republican warns colleagues against downplaying midterm losses",
+    "summary": "Sen. John Kennedy (R-La.) is warning Senate Republican colleagues not to downplay the blowout Republican losses in last week’s election as “a normal midterm election loss,” saying they should instead work hard to win back voters who shifted to Democrats. “This was not a normal midterm election loss,” Kennedy told Fox News’s Sean Hannity in...",
+    "published_at": "2026-11-12T13:58:14Z",
+    "source_url": "https://thehill.com/homenews/senate/6215464-gop-lame-duck-legislative-push/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "f4e68b9a18bc03fa9aaa",
+    "title": "US attorney threatens Blumenthal with 'significant legal consequences' over ballroom probe",
+    "summary": "A top federal prosecutor warned Sen. Richard Blumenthal (D-Conn.) to preserve records related to his investigations into the donors funding President Trump’s White House ballroom project, accusing the senator of using congressional oversight to harass private citizens. Aaron Reitz, the U.S. attorney for the Southern District of Texas, claimed in a letter dated Nov. 11...",
+    "published_at": "2026-11-12T13:57:15Z",
+    "source_url": "https://thehill.com/homenews/administration/6215399-richard-blumenthal-white-house-ballroom-probe-doj/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "d95bedfd8d193f851519",
+    "title": "Himes urges Republicans to pass FISA during the lame-duck session",
+    "summary": "Rep. Jim Himes (D-Conn.), the top Democrat on the House Intelligence Committee, said Republicans would be wise to renew the nation’s warrantless spy powers during the lame-duck session. Section 702 of the Foreign Intelligence Surveillance Act (FISA) allows the government to spy on foreigners located abroad, but privacy hawks on the left and right want...",
+    "published_at": "2026-11-12T13:30:16Z",
+    "source_url": "https://thehill.com/national-security/6215401-jim-himes-fisa-702-extension-spy-powers-congress/",
+    "source": "The Hill — House",
+    "category": "國會動態"
+  },
+  {
+    "id": "66e493472b25b3a089ad",
+    "title": "Peltola holds lead, but Sullivan gains after latest Alaska Senate vote drop",
+    "summary": "Former Rep. Mary Peltola’s (D-Alaska) campaign said Wednesday that Sen. Dan Sullivan (R-Alaska) is running out of opportunities to overcome her lead in the state’s closely contested Senate race. The warning came after the latest batch of ballots showed the incumbent making only modest gains in a traditionally Republican stronghold. Peltola leads Sullivan by 3,975...",
+    "published_at": "2026-11-12T13:11:18Z",
+    "source_url": "https://thehill.com/homenews/campaign/6215353-mary-peltola-dan-sullivan-alaska-senate-race-update/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "998cb863fce0c09d5d40",
+    "title": "Schumer seeks to quash Democratic rebellion",
+    "summary": "Senate Democratic Leader Chuck Schumer (N.Y.) is moving quickly to quash a brewing rebellion in his caucus by telling colleagues privately that he’s locked up the votes to be majority leader and laying out a comprehensive plan for the new Democratic Senate in 2027. Senate Democrats say that Sens. Chris Van Hollen (Md.) and Elissa...",
+    "published_at": "2026-11-12T11:00:00Z",
+    "source_url": "https://thehill.com/homenews/senate/6214626-schumer-democratic-senate-leadership-rebellion/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "75adf06c8799116401f9",
+    "title": "Warren poised to be Wall Street’s chief antagonist in Senate. Here’s who is in her sights",
+    "summary": "Sen. Elizabeth Warren (D-Mass.) is poised to take the reins of the Senate Banking Committee, a crucial perch from which the progressive senator aims to put corporate America under the microscope. Warren, who made her name as a consumer advocate in the wake of the 2008 financial crisis, has been one of the Senate's fiercest critics...",
+    "published_at": "2026-11-12T11:00:00Z",
+    "source_url": "https://thehill.com/business/6214139-warren-targets-corporate-america-senate-banking/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
     "id": "60503d37ba78f84a2d08",
     "title": "GOP senator feels 'strongly' Jensen Huang should resign at Nvidia",
     "summary": "Sen. Kevin Cramer (R-N.D.) said he feels “strongly” that Nvidia CEO Jensen Huang should resign following reports alleging the tech leader had an \"intimate relationship” with an accused Chinese spy and another with an Nvidia executive who reported to him. \"I can't believe we are even considering him not resigning. I mean, I do feel...",
@@ -29,7 +128,7 @@
   {
     "id": "3c1a314c0fb217b7863d",
     "title": "Mississippi Senate stunner: Cindy Hyde-Smith concedes to Democrat Scott Colom",
-    "summary": "Democrat Scott Colom is set to become Mississippi's next senator after Republican Sen. Cindy Hyde-Smith conceded Wednesday, notching a major victory for his party in the ruby red state. \"While this is not the outcome we worked for or hoped for, I respect the decision of Mississippi voters,\" she said in a video posted to...",
+    "summary": "Democrat Scott Colom is set to become Mississippi's next senator after Republican Sen. Cindy Hyde-Smith conceded Wednesday, with Colom notching a major victory for his party in the ruby-red state. \"While this is not the outcome we worked for or hoped for, I respect the decision of Mississippi voters,\" she said in a video posted...",
     "published_at": "2026-11-11T23:26:19Z",
     "source_url": "https://thehill.com/homenews/campaign/6165685-colom-mississippi-senate-ousts-hyde-smith/",
     "source": "The Hill — Senate",
@@ -73,8 +172,8 @@
   },
   {
     "id": "0e152d4aaa57c8eecce7",
-    "title": "Rand Paul plans to be top Republican on Senate health committee",
-    "summary": "Sen. Rand Paul (R-Ky.) said Wednesday he is seeking the top GOP spot on the powerful Senate health committee next Congress, a move that would likely signal a major shift for the focus of Republicans on the panel. Paul, an ophthalmologist, is the most senior Republican on the panel. He is currently the chair of the...",
+    "title": "Rand Paul plans to be top Republican on Senate Health Committee",
+    "summary": "Sen. Rand Paul (R-Ky.) said Wednesday he is seeking the top GOP spot on the powerful Senate Health, Education, Labor and Pensions (HELP) Committee next Congress, a move that would likely signal a major shift for the focus of Republicans on the panel. Paul, an ophthalmologist, is the most senior Republican on the panel. He is...",
     "published_at": "2026-11-11T20:06:23Z",
     "source_url": "https://thehill.com/the-120/6214202-rand-paul-seeks-gop-help-leadership/",
     "source": "The Hill — Senate",
@@ -806,24 +905,6 @@
     "summary": "On the heels of their resounding victories in the midterms, Democrats are preparing to take President Trump’s tariffs head-on as part of their pledge to lower the cost of living. The tariffs, a central part of Trump’s economic agenda dating to his first term, were a frequent target for Democratic lawmakers and candidates on the...",
     "published_at": "2026-11-08T11:00:00Z",
     "source_url": "https://thehill.com/business/6205219-democrats-target-trump-tariffs/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "b8dbe6279289d7e22eec",
-    "title": "Trump’s glide path to judicial confirmations comes to an end",
-    "summary": "Democrats' Senate victory means President Trump for the first time will lose a glide path to nominate judges and Supreme Court justices. Pressure had grown on conservative Justices Clarence Thomas and Samuel Alito to retire, but they show no sign of imminently stepping down. And Senate Democratic Leader Chuck Schumer (N.Y.) is already signaling...",
-    "published_at": "2026-11-07T17:00:00Z",
-    "source_url": "https://thehill.com/regulation/court-battles/6205209-trump-judicial-confirmations-democrats-senate/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "2709821b7a5aabbf6eb8",
-    "title": "Do midterms change the calculus for bipartisan permitting reform?",
-    "summary": "With the midterm elections in the rearview mirror, the Senate is barreling ahead with major energy and infrastructure legislation in the lame-duck session. The bill, which seeks to make it easier to build energy and other infrastructure projects more quickly, is slated for a procedural vote in the Senate on Monday, a key test of...",
-    "published_at": "2026-11-07T11:00:00Z",
-    "source_url": "https://thehill.com/policy/energy-environment/6205516-bipartisan-permitting-reform-lame-duck-congress/",
     "source": "The Hill — Senate",
     "category": "國會動態"
   }
