@@ -1,12 +1,12 @@
 {
-  "checked_at": "2026-11-14T17:00:14.404213+00:00",
+  "checked_at": "2026-11-14T21:25:11.669109+00:00",
   "last_window_days": 5,
-  "new_items": 3,
-  "retained_items": 111,
+  "new_items": 1,
+  "retained_items": 104,
   "sources": {
     "The Hill — House": {
       "ok": true,
-      "fetched": 8
+      "fetched": 7
     },
     "The Hill — Senate": {
       "ok": true,
