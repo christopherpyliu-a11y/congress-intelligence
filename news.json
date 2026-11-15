@@ -1,5 +1,50 @@
 [
   {
+    "id": "5347677a4dc566300f58",
+    "title": "Van Hollen: Senators who pledged to support Schumer will switch vote",
+    "summary": "Sen. Chris Van Hollen (D-Md.) said that several senators whom Senate Minority Leader Chuck Schumer’s (D-N.Y.) team claimed would vote for him have privately pledged to back Van Hollen instead for majority leader. The Hill reported on Saturday that Schumer’s allies expect him to win more than 40 votes in the race for Senate majority...",
+    "published_at": "2026-11-15T16:45:31Z",
+    "source_url": "https://thehill.com/homenews/senate/6221394-van-hollen-challenges-schumer/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "fa51cc5da219aebba32b",
+    "title": "Van Hollen says 'bunch of nonsense' that he can't win Senate majority leader",
+    "summary": "Sen. Chris Van Hollen (D-Md.) calls it a “bunch of nonsense” that he can’t win Senate Majority Leader over Sen. Chuck Schumer (D-N.Y.) in response to a report from The Hill that alleged Senate insiders close to Schumer believed the Maryland Senator was using the leadership contest to win concessions on Medicare-for-All and terminating the...",
+    "published_at": "2026-11-15T15:11:11Z",
+    "source_url": "https://thehill.com/the-120/6221313-senate-majority-leader-race-van-hollen/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "b21c3f4bec443042e82d",
+    "title": "Bessent, Congress zero in on Lutnick’s role in Nvidia-Megaspeed scandal",
+    "summary": "Commerce Secretary Howard Lutnick is facing heat in Washington, including from Treasury Secretary Scott Bessent, over his approach to AI chip export controls amid Nvidia's national security scandal. Reports emerged this week that Lutnick took a softer line on Nvidia over the tech giant’s AI chip sales to China and failed to put the Singaporean...",
+    "published_at": "2026-11-15T14:06:18Z",
+    "source_url": "https://thehill.com/policy/technology/6219334-commerce-secretary-scrutiny-megaspeed-nvidia-scandal/",
+    "source": "The Hill — Senate",
+    "category": "涉台／涉中"
+  },
+  {
+    "id": "268ac68f31b65d564725",
+    "title": "Crypto was hoping for a breakthrough in Congress. Now it's bracing for investigations",
+    "summary": "The cryptocurrency industry is bracing for a changing of the guard in Congress, as Democrats take control of both the House and Senate with a more skeptical eye toward digital assets. After a major crypto regulation bill came up short in the Senate in September, the industry sees limited prospects for the legislation in either...",
+    "published_at": "2026-11-15T11:00:00Z",
+    "source_url": "https://thehill.com/policy/technology/6219609-democrats-congress-control-crypto/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "79832a5ce61925c11d1d",
+    "title": "Democrats bullish on South after historic midterms gains",
+    "summary": "Democrats are seeing new opportunities in the South after stunning midterm victories in Mississippi, South Carolina and Texas. The party's wins were both big and broad: It flipped highly competitive Senate seats in North Carolina, South Carolina, Texas and Mississippi, delivered new Democratic governors in the Lone Star State and Georgia, and took control of...",
+    "published_at": "2026-11-15T11:00:00Z",
+    "source_url": "https://thehill.com/homenews/campaign/6219610-south-democrats-strategy-midterm-wins/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
     "id": "bf405988f8ce77254f83",
     "title": "Burchett rips Johnson, Thune over FAA funding: 'Step up to the daggum plate'",
     "summary": "GOP Rep. Tim Burchett (Tenn.) called on his party's congressional leadership — House Speaker Mike Johnson (La.) and Senate Majority Leader John Thune (S.D.) to \"step up to the daggum plate\" Saturday morning, urging the pair to pass legislation funding air travel infrastructure updates in light of Friday's nationwide ground stop. “We know that it...",
@@ -771,123 +816,6 @@
     "published_at": "2026-11-10T17:41:06Z",
     "source_url": "https://thehill.com/homenews/administration/6211107-vance-defends-hegseth-against-impeachment-effort/",
     "source": "The Hill — House",
-    "category": "國會動態"
-  },
-  {
-    "id": "c28c807c067df321ddeb",
-    "title": "Alsobrooks, Tillis to introduce veteran home loan program bill in Senate",
-    "summary": "A bipartisan Senate duo will introduce legislation to help support veterans who utilize Department of Veterans Affairs (VA) home loan programs, according to the bill’s text exclusively obtained by The Hill. Sens. Angela Alsobrooks (D-Md.) and Thom Tillis (R-N.C.) plan to introduce the VA Home Loan Navigator Act as soon as today — establishing a...",
-    "published_at": "2026-11-10T16:24:20Z",
-    "source_url": "https://thehill.com/homenews/senate/6210833-bipartisan-bill-supports-veteran-mortgages/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "b33bc906e18ca22911d4",
-    "title": "Senate Republicans suspend leadership election amid demands for ‘a plan’ from John Thune",
-    "summary": "Senate Republicans on Tuesday paused their meeting to elect leaders after Senate conservatives demanded “a plan” for the lame-duck session and the next Congress when Democrats will be in the majority. Republican senators streamed out of the Old Senate Chamber after huddling in the historic room for nearly two hours to discuss their future after...",
-    "published_at": "2026-11-10T16:23:39Z",
-    "source_url": "https://thehill.com/homenews/senate/6210906-senate-gop-leadership-vote-paused/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "9cdfd68a3737daa5ab2e",
-    "title": "Read: Massie unveils 8 impeachment articles against Hegseth",
-    "summary": "Rep. Thomas Massie (R-Ky.) unveiled eight articles of impeachment against Defense Secretary Pete Hegseth on Monday, escalating his push to oust the Pentagon chief. The resolution accuses Hegseth of abusing his authority, including waging war against Iran without congressional authorization, failing to protect civilians and overseeing deadly strikes on suspected drug boats in th",
-    "published_at": "2026-11-10T16:09:21Z",
-    "source_url": "https://thehill.com/homenews/house/6210806-read-massie-impeachment-articles-2026/",
-    "source": "The Hill — House",
-    "category": "國會動態"
-  },
-  {
-    "id": "32cafc2a7af2acbb841f",
-    "title": "Ocasio-Cortez doesn't back Schumer in Senate leadership vote",
-    "summary": "Rep. Alexandria Ocasio-Cortez (D-N.Y.) declined to back Senate Minority Leader Chuck Schumer (D-N.Y.) as he prepares to seek his caucus’s support to become majority leader beginning in January. Asked by reporters outside the Capitol if she would back her home state’s senator for the top spot in the upper chamber given calls for new leadership...",
-    "published_at": "2026-11-10T15:48:03Z",
-    "source_url": "https://thehill.com/homenews/senate/6210724-ocasio-cortez-declines-schumer-support/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "bc0b24f4e876cf14a021",
-    "title": "Mike Johnson blasts Massie's 'shameful' push to oust Hegseth",
-    "summary": "House Speaker Mike Johnson (R-La.) on Tuesday criticized Rep. Thomas Massie’s (R-Ky.) push to impeach Defense Secretary Pete Hegseth. The House is set to hold a procedural vote Tuesday evening on the eight articles of impeachment the Kentucky lawmaker introduced the previous day. Johnson called the effort to oust Hegseth “shameful” and accused Massie of...",
-    "published_at": "2026-11-10T15:42:48Z",
-    "source_url": "https://thehill.com/homenews/house/6210718-johnson-criticizes-hegseth-impeachment/",
-    "source": "The Hill — House",
-    "category": "國會動態"
-  },
-  {
-    "id": "25b42ed570c34fc2cac7",
-    "title": "Watch live: House Democrats give remarks after midterm sweep",
-    "summary": "House Democratic leaders will hold a press conference Tuesday morning after Congress returned for its lame-duck session following the party’s sweeping midterm victories. Democrats are preparing to take control of the House in January, but several contentious issues remain on the agenda. House Minority Leader Hakeem Jeffries (D-N.Y.) faces tests within his caucus on the...",
-    "published_at": "2026-11-10T15:30:00Z",
-    "source_url": "https://thehill.com/video-clips/6210118-watch-live-house-democrats-press-conference-hegseth-energy-midterms-presser/",
-    "source": "The Hill — House",
-    "category": "國會動態"
-  },
-  {
-    "id": "104893a18e0a69e32acb",
-    "title": "Jeffries pushes tighter China chip restrictions amid Nvidia CEO scandal",
-    "summary": "House Minority Leader Hakeem Jeffries (D-N.Y.) backed an effort Monday to pass new restrictions on China's access to advanced AI chips through an annual defense bill amid a scandal over Nvidia CEO Jensen Huang's relationship with an alleged Chinese spy. Jeffries, who could become Speaker in the next Congress, said he \"strongly supports\" chip restrictions...",
-    "published_at": "2026-11-10T15:06:07Z",
-    "source_url": "https://thehill.com/policy/technology/6210410-jeffries-backs-china-ai-chip-restrictions/",
-    "source": "The Hill — House",
-    "category": "涉台／涉中"
-  },
-  {
-    "id": "b01d37d18882291ab285",
-    "title": "Blunt Rochester backs Democratic legislative push in face of Trump's veto threat",
-    "summary": "While Democrats will have to contend with President Trump's threats to veto legislation when they take control of Congress in January, Sen. Lisa Blunt Rochester (D-Del.) on Tuesday argued that reality should not be a deterrent to passing legislative priorities. Speaking at The Hill's Health Next Summit in Washington, Blunt Rochester touched on healthcare priorities...",
-    "published_at": "2026-11-10T14:52:34Z",
-    "source_url": "https://thehill.com/policy/healthcare/6210155-blunt-rochester-healthcare-priorities-trump-veto/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "404a7348791b203d10ae",
-    "title": "Gillibrand seeking another term leading Senate campaign arm after big wins",
-    "summary": "Sen. Kirsten Gillibrand (D-N.Y.) announced she intends to seek another term leading the Democratic Senatorial Campaign Committee (DSCC), the campaign arm for Senate Democrats, following sweeping victories across the country this year. “I am definitely going to volunteer again,” Gillibrand told Nexstar Media Group Washington correspondent Margaret Chadbourn in an interview. “I t",
-    "published_at": "2026-11-10T14:05:26Z",
-    "source_url": "https://thehill.com/homenews/senate/6210111-democrats-gain-senate-seats/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "287be6ce3784c1e3cfd1",
-    "title": "Ron Johnson threatens walkout of Senate GOP leadership election",
-    "summary": "Sen. Ron Johnson (R-Wis.) pledged to walk out of the room if his Republican colleagues proceed with leadership elections on Tuesday, after calling a conference to discuss the party’s direction following significant losses for the GOP in the midterm elections. “If you hold the election, I’ll leave the room,” he told the Washington Examiner in...",
-    "published_at": "2026-11-10T13:31:18Z",
-    "source_url": "https://thehill.com/homenews/senate/6209990-ron-johnson-senate-gop-leadership-vote-120-congress/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "57b1ddc39b2156bcd313",
-    "title": "Scott, Hawley decline to commit to backing Thune for leader",
-    "summary": "Two prominent Senate conservatives, Senate Steering Committee Chair Rick Scott (R-Fla.) and Sen. Josh Hawley (R-Mo.), on Monday declined to commit to voting for Sen. John Thune (R-S.D.) as Senate GOP leader after the party lost at least seven Senate seats in the midterm election. Scott, who signed a letter requesting to postpone Tuesday’s Senate...",
-    "published_at": "2026-11-10T13:08:01Z",
-    "source_url": "https://thehill.com/homenews/senate/6209947-scott-hawley-decline-thune-reelection/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "92e279d615491dfeba23",
-    "title": "Watch live: Hegseth holds Pentagon briefing amid impeachment push",
-    "summary": "Defense Secretary Pete Hegseth will speak to reporters Tuesday morning, his first briefing in roughly six months, as he faces an impeachment threat over his handling of the Iran war and strikes on suspected drug boats near South America. Rep. Thomas Massie (R-Ky.) introduced eight articles of impeachment Monday, accusing Hegseth of violating the Constitution...",
-    "published_at": "2026-11-10T12:33:57Z",
-    "source_url": "https://thehill.com/video-clips/6209835-pete-hegseth-pentagon-briefing-thomas-massie-impeachment-pressure/",
-    "source": "The Hill — House",
-    "category": "國會動態"
-  },
-  {
-    "id": "793ca790d188db8162f9",
-    "title": "John Thune’s leadership bid collides with conservative demands for lame-duck agenda",
-    "summary": "Senate GOP conservatives are threatening to postpone and possibly derail Sen. John Thune’s (S.D.) bid to serve another term as Senate Republican leader, seeking leverage over how Thune manages a lame-duck session that represents a final chance to pass President Trump’s priorities through a Republican-controlled Congress. Senate conservatives led by Sens. Ron Johnson (R-Wis.), M",
-    "published_at": "2026-11-10T11:00:00Z",
-    "source_url": "https://thehill.com/homenews/senate/6209315-senate-leaders-election-postponement-debate/",
-    "source": "The Hill — Senate",
     "category": "國會動態"
   }
 ]
