@@ -1,5 +1,50 @@
 [
   {
+    "id": "ff7580b992a84cbcfa6b",
+    "title": "Senate GOP unveils nearly $1.1T defense appropriations bill",
+    "summary": "Senate Republicans on Monday unveiled a nearly $1.1 trillion defense appropriations bill for fiscal year 2027, which includes tens of billions in funding for programs initially part of the Pentagon’s $350 billion reconciliation request The massive spending bill saw close to $69 billion being moved from reconciliation to the base budget, reflecting the skepticism that...",
+    "published_at": "2026-11-17T02:16:58Z",
+    "source_url": "https://thehill.com/homenews/senate/6224030-senate-gop-defense-appropriations-bill/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "62e603ff31a14a9fb989",
+    "title": "Senate takes big step toward passing permitting reform package",
+    "summary": "The Senate took a big step Monday to advance a bipartisan permitting reform package closer to final passage by voting to end debate on a managers’ amendment to strengthen provisions of the bill addressing energy-hungry data centers and protecting tribal sovereignty. Senators voted to invoke cloture 70-27 on the substitute amendment sponsored by Sen. Shelley...",
+    "published_at": "2026-11-17T00:07:20Z",
+    "source_url": "https://thehill.com/homenews/senate/6223468-senate-advances-baja-permitting-reform/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "32080437a1ed330a66af",
+    "title": "Incoming House Democrat accuses Hegseth of 'war crimes'",
+    "summary": "Rep.-elect Fred Wellman (D-Mo.) accused Defense Secretary Pete Hegseth of committing “war crimes” during his tenure as head of the Pentagon. “Actually, I believe he's committed crimes,” Wellman said during an appearance on MS NOW. “And let's be very clear: we're not at war with anyone in South America at this point. The boats that...",
+    "published_at": "2026-11-16T23:38:43Z",
+    "source_url": "https://thehill.com/homenews/house/6223902-wellman-accuses-hegseth-crimes/",
+    "source": "The Hill — House",
+    "category": "國會動態"
+  },
+  {
+    "id": "5690a50ed82f80cc2389",
+    "title": "Whip List: Schumer faces challenge from Van Hollen for Senate Democratic leader",
+    "summary": "Sen. Chuck Schumer (D-N.Y.), who has led Senate Democrats since 2017, is facing a new leadership challenge from Sen. Chris Van Hollen (D-Md.) after the big midterm wins by the party in November. Van Hollen, 67, is the progressive in the race, and his election would be a boost for the left. Upon declaring his...",
+    "published_at": "2026-11-16T23:33:00Z",
+    "source_url": "https://thehill.com/homenews/senate/6223162-whip-schumer-van-hollen-leadership-race/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "3856a502cfe5dae3ad05",
+    "title": "Duffy seeks more FAA funding, but lawmakers want answers first",
+    "summary": "Transportation Secretary Sean Duffy is calling on Congress to approve $50 billion in emergency funding to upgrade the nation's air traffic control (ATC) technology after a rare nationwide ground stop led to the cancellation of 17,000 flights over the weekend. But Democratic lawmakers are arguing the Trump administration hasn't fully justified or explained the need...",
+    "published_at": "2026-11-16T22:34:46Z",
+    "source_url": "https://thehill.com/policy/transportation/6223690-lawmakers-demand-ground-stop-answers/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
     "id": "016ecdccc519618e4773",
     "title": "Schumer vs. Van Hollen: Who has the edge?",
     "summary": "Senate Democratic Leader Chuck Schumer (N.Y.) is facing a challenge for his job from the left in Sen. Chris Van Hollen (D-Md.). The leadership battle comes after Democrats won sweeping victories in the midterm elections and highlights division in the party despite the big wins. Join The Hill’s editors and Senate reporter Alexander Bolton for...",
@@ -86,7 +131,7 @@
     "summary": "Commerce Secretary Howard Lutnick is facing heat in Washington, including from Treasury Secretary Scott Bessent, over his approach to AI chip export controls amid Nvidia's national security scandal. Reports emerged this week that Lutnick took a softer line on Nvidia over the tech giant’s AI chip sales to China and failed to put the Singaporean...",
     "published_at": "2026-11-15T14:06:18Z",
     "source_url": "https://thehill.com/policy/technology/6219334-commerce-secretary-scrutiny-megaspeed-nvidia-scandal/",
-    "source": "The Hill — Senate",
+    "source": "The Hill — House",
     "category": "涉台／涉中"
   },
   {
@@ -95,7 +140,7 @@
     "summary": "The cryptocurrency industry is bracing for a changing of the guard in Congress, as Democrats take control of both the House and Senate with a more skeptical eye toward digital assets. After a major crypto regulation bill came up short in the Senate in September, the industry sees limited prospects for the legislation in either...",
     "published_at": "2026-11-15T11:00:00Z",
     "source_url": "https://thehill.com/policy/technology/6219609-democrats-congress-control-crypto/",
-    "source": "The Hill — Senate",
+    "source": "The Hill — House",
     "category": "國會動態"
   },
   {
@@ -473,69 +518,6 @@
     "summary": "Sen. Elizabeth Warren (D-Mass.) is poised to take the reins of the Senate Banking Committee, a crucial perch from which the progressive senator aims to put corporate America under the microscope. Warren, who made her name as a consumer advocate in the wake of the 2008 financial crisis, has been one of the Senate's fiercest critics...",
     "published_at": "2026-11-12T11:00:00Z",
     "source_url": "https://thehill.com/business/6214139-warren-targets-corporate-america-senate-banking/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "60503d37ba78f84a2d08",
-    "title": "GOP senator feels 'strongly' Jensen Huang should resign at Nvidia",
-    "summary": "Sen. Kevin Cramer (R-N.D.) said he feels “strongly” that Nvidia CEO Jensen Huang should resign following reports alleging the tech leader had an \"intimate relationship” with an accused Chinese spy and another with an Nvidia executive who reported to him. \"I can't believe we are even considering him not resigning. I mean, I do feel...",
-    "published_at": "2026-11-12T01:57:13Z",
-    "source_url": "https://thehill.com/homenews/senate/6215009-senator-cramer-calls-nvidia-ceo-resignation/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "4bd991561892a485291f",
-    "title": "Hawley calls for Senate to pass data center moratorium",
-    "summary": "Sen. Josh Hawley (R-Mo.) is calling on the Senate to pass a moratorium on data center construction in the period before Republicans lose the majority, the first GOP senator to call for the move nationwide. The Missouri senator listed his five priorities for his party in a post to the social platform X, including passing...",
-    "published_at": "2026-11-12T00:08:46Z",
-    "source_url": "https://thehill.com/homenews/senate/6214878-hawley-calls-gop-data-center-moratorium/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "509f9d98305cc7490194",
-    "title": "Former Navy JAG who flipped Kentucky House seat: 'Premature' to discuss Hegseth impeachment",
-    "summary": "Rep.-elect Zach Dembo (D-Ky.) said Wednesday it would be “premature” to discuss Defense Secretary Pete Hegseth’s impeachment following a failed House vote to oust the head of the Pentagon. “Look, I just got elected a week ago. I don't even have an office yet. I'll tell you, I did not come here with the goal...",
-    "published_at": "2026-11-12T00:04:22Z",
-    "source_url": "https://thehill.com/the-120/6214824-dembo-hegseth-impeachment-vote/",
-    "source": "The Hill — House",
-    "category": "國會動態"
-  },
-  {
-    "id": "3c1a314c0fb217b7863d",
-    "title": "Mississippi Senate stunner: Cindy Hyde-Smith concedes to Democrat Scott Colom",
-    "summary": "Democrat Scott Colom is set to become Mississippi's next senator after Republican Sen. Cindy Hyde-Smith conceded Wednesday, with Colom notching a major victory for his party in the ruby-red state. \"While this is not the outcome we worked for or hoped for, I respect the decision of Mississippi voters,\" she said in a video posted...",
-    "published_at": "2026-11-11T23:26:19Z",
-    "source_url": "https://thehill.com/homenews/campaign/6165685-colom-mississippi-senate-ousts-hyde-smith/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "c86e71d3fe0c8d169d65",
-    "title": "Democrats cry foul after Republicans fast-track partisan veterans bill: ‘Dirty tricks’",
-    "summary": "House Democrats are crying foul Wednesday after Republicans used a fast-track tactic to pass partisan legislation designed to increase pay for disabled and injured veterans. Democrats opposed the GOP’s Take Care of America's Veterans Act (TCAVA), saying it would expand some veterans’ benefits by slashing others. In her daily whip notice, Rep. Katherine Clark (D-Mass.)...",
-    "published_at": "2026-11-11T21:39:57Z",
-    "source_url": "https://thehill.com/homenews/house/6214482-gop-passes-tcava-veterans-bill/",
-    "source": "The Hill — House",
-    "category": "國會動態"
-  },
-  {
-    "id": "0d2f372e1915d11329dd",
-    "title": "Lankford says GOP will defer to Trump on next immigration push",
-    "summary": "Sen. James Lankford (R-Okla.), who is poised to be a key player in any bipartisan immigration reform efforts in the next Congress, said he’s waiting for a signal from President Trump about what provisions to include. “The president has already said he wants to do something. I don't know what that would be,” Lankford told...",
-    "published_at": "2026-11-11T21:03:28Z",
-    "source_url": "https://thehill.com/the-120/6214383-senate-immigration-reform-bipartisan-push/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "f776698370ed49e08d9d",
-    "title": "Senate Democrat presses Trump administration on Megaspeed probe following Alice Huang allegations",
-    "summary": "Democratic Sen. Michael Bennet (Colo.) is pressing intelligence and commerce leaders in the Trump administration on its investigation into the cloud computing and data center firm Megaspeed following reports the Commerce Department paused their investigation into the company last year. Bennet, in a letter sent Tuesday, asked the heads of the departments of Justice (DOJ),...",
-    "published_at": "2026-11-11T20:52:06Z",
-    "source_url": "https://thehill.com/policy/technology/6214107-bennet-pushes-megaspeed-probe/",
     "source": "The Hill — Senate",
     "category": "國會動態"
   }
