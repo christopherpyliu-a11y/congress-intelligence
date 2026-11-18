@@ -1,8 +1,53 @@
 [
   {
+    "id": "ad80cd7c0ca4ce81c24b",
+    "title": "Huang agrees to testify before Senate Banking panel",
+    "summary": "Former Nvidia CEO Jensen Huang has agreed to testify before the Senate Banking Committee, a spokesperson for Chair Tim Scott (R-S.C.) confirmed Tuesday. Lawmakers have ramped up scrutiny of Huang’s alleged extramarital affair with suspected Chinese spy Alice Huang, who worked as an executive at computing company Megaspeed, over concerns that China may have gained...",
+    "published_at": "2026-11-18T03:48:10Z",
+    "source_url": "https://thehill.com/homenews/senate/6227038-jensen-huang-senate-testify/",
+    "source": "The Hill — Senate",
+    "category": "涉台／涉中"
+  },
+  {
+    "id": "03e0e01564a9772af3f8",
+    "title": "Mary Peltola flips Republican Senate seat in Alaska",
+    "summary": "Former Rep. Mary Peltola, a Democrat, is projected to win the race for Senate in Alaska, defeating GOP incumbent Sen. Dan Sullivan and flipping a seat for the Democratic Party, according to Decision Desk HQ. With 94 percent reporting according to DDHQ, Peltola has 50.12 percent of the vote to Sullivan's 45.79 percent, which puts...",
+    "published_at": "2026-11-18T03:21:19Z",
+    "source_url": "https://thehill.com/homenews/campaign/6176074-peltola-wins-alaska-senate/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "da8499936e6d3a68bf08",
+    "title": "Congress agrees on civilian plane locator mandate after deadly American Airlines-Black Hawk crash",
+    "summary": "“When military aircraft fly in the same airspace, they must meet the same standards as everyone else.\"",
+    "published_at": "2026-11-18T03:16:13Z",
+    "source_url": "https://thehill.com/homenews/senate/6226791-congress-civilian-plane-locator-mandate-after-deadly-american-airlines-black-hawk-crash/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "873ede7f94e493553b2e",
+    "title": "Senate Intel Vice Chair Warner says AI contributing to network outages",
+    "summary": "Senate Intelligence Committee ranking member Mark Warner (D-Va.) alleged Tuesday that AI contributed to several high-profile system outages this week, arguing industries are under pressure to quickly identify and fix security issues the technology can easily exploit. “What appears to be happening instead is a consequence of how quickly artificial intelligence is changing the cy",
+    "published_at": "2026-11-18T01:34:12Z",
+    "source_url": "https://thehill.com/homenews/senate/6226826-mark-warner-ai-cybersecurity-system-outages/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "45a9462cb98462918bbd",
+    "title": "White House pulls nomination of Heidi Overton to lead FDA",
+    "summary": "The White House withdrew the nomination of Heidi Overton to lead the Food and Drug Administration (FDA) amid opposition from Senate Republicans, it confirmed to The Hill. Overton was set to face a key vote Wednesday in the Senate health committee, where Republicans hold only a one-vote majority — meaning losing one member would be...",
+    "published_at": "2026-11-18T01:08:53Z",
+    "source_url": "https://thehill.com/policy/healthcare/6226487-white-house-withdraws-fda-nomination/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
     "id": "66307f7523f7bfed4cfa",
     "title": "Hung Cao grilled by Senate over suicide attempts, Iran war: 5 takeaways",
-    "summary": "Senators on both sides of the aisle grilled acting Navy Secretary Hung Cao on Tuesday with questions over sailor suicide attempts on Navy ships, the U.S. war against Iran and the lack of progress on shipbuilding in a contentious two-and-a-half-hour confirmation hearing. Senate Armed Services Committee (SASC) lawmakers berated the Pentagon for holding some classified...",
+    "summary": "Senators on both sides of the aisle grilled acting Navy Secretary Hung Cao on Tuesday with questions over sailor suicide attempts on Navy ships, the U.S. war against Iran and the lack of progress on shipbuilding in a contentious two-and-a-half-hour confirmation hearing. Senate Armed Services Committee lawmakers berated the Pentagon for holding some classified briefings...",
     "published_at": "2026-11-17T21:44:13Z",
     "source_url": "https://thehill.com/policy/defense/6226459-navy-secretary-confirmation-clash/",
     "source": "The Hill — Senate",
@@ -27,12 +72,30 @@
     "category": "國會動態"
   },
   {
+    "id": "eb7be7781d3ce8f162b4",
+    "title": "Senate Dems dismiss talk of earlier leadership election; Schumer confident",
+    "summary": "Backers of Sen. Chris Van Hollen’s bid have criticized talk of earlier leadership vote",
+    "published_at": "2026-11-17T21:00:16Z",
+    "source_url": "https://rollcall.com/2026/11/17/senate-democrats-leadership-vote",
+    "source": "Roll Call",
+    "category": "國會動態"
+  },
+  {
     "id": "fad1d2f911fd0e01b38c",
     "title": "Why an Alaska win by Peltola is so important to Democrats",
     "summary": "Senate Democrats are seeking to complete what has been a historic midterm election campaign with one final win in Alaska, where Democrat Mary Peltola is on track to oust Sen. Dan Sullivan (R) as ballots trickle in. A Democratic victory in Alaska would represent the party's ninth midterm Senate flip and make for a 56-seat majority in...",
     "published_at": "2026-11-17T20:52:22Z",
     "source_url": "https://thehill.com/homenews/campaign/6226081-alaska-senate-peltola-democrats-majority/",
     "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "c344fc7b70ed68edb3cf",
+    "title": "Hill GOP looking to trim White House's $50 billion aviation ask",
+    "summary": "Lawmakers note bulk of modernization funding Congress provided last year for FAA still unspent",
+    "published_at": "2026-11-17T20:25:35Z",
+    "source_url": "https://rollcall.com/2026/11/17/hill-gop-looking-to-trim-white-houses-50-billion-aviation-ask",
+    "source": "Roll Call",
     "category": "國會動態"
   },
   {
@@ -45,9 +108,18 @@
     "category": "國會動態"
   },
   {
+    "id": "06be4d6933290d26ea08",
+    "title": "Senators still see NDAA as chance for online safety legislation",
+    "summary": "Annual defense policy bill expected in the lame-duck session",
+    "published_at": "2026-11-17T20:15:32Z",
+    "source_url": "https://rollcall.com/2026/11/17/senators-still-see-ndaa-as-chance-for-online-safety-legislation",
+    "source": "Roll Call",
+    "category": "國會動態"
+  },
+  {
     "id": "9adc6eed3fd33602ad54",
     "title": "Van Hollen's 2016 opponent backs his bid for majority leader",
-    "summary": "Former Rep. Donna Edwards (D-Md.) announced her support for Sen. Chris Van Hollen’s (D-Md.) bid for Senate Majority Leader over Senate Minority Leader Chuck Schumer (D-N.Y.). Edwards competed against Van Hollen in 2016 in a contentious Democratic primary for then-retiring Sen. Barbara Mikulski’s (D-Md.) open seat. She noted on social media that “there’s a lot...",
+    "summary": "Former Rep. Donna Edwards (D-Md.) announced her support for Sen. Chris Van Hollen (D-Md.) in his bid to become Senate majority leader over Sen. Chuck Schumer (D-N.Y.), the current minority leader. Edwards competed against Van Hollen in 2016 in a contentious Democratic primary for former Sen. Barbara Mikulski’s (D-Md.) open seat. She noted on social...",
     "published_at": "2026-11-17T19:36:56Z",
     "source_url": "https://thehill.com/the-120/6226013-donna-edwards-supports-van-hollen/",
     "source": "The Hill — Senate",
@@ -60,6 +132,15 @@
     "published_at": "2026-11-17T19:33:47Z",
     "source_url": "https://thehill.com/the-120/6225885-chuck-schumer-democrats-unpopularity-poll-results/",
     "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "b177d7ab04857913688d",
+    "title": "Jeffries puts immigration bill high on Democratic priority list",
+    "summary": "Calls for ‘immediate’ action on citizenship bill, but more talks on health care agenda",
+    "published_at": "2026-11-17T19:08:59Z",
+    "source_url": "https://rollcall.com/2026/11/17/17jeffries",
+    "source": "Roll Call",
     "category": "國會動態"
   },
   {
@@ -122,13 +203,13 @@
     "summary": "The GOP is trying to pick up the pieces after the midterm elections ushered in large Democratic majorities in the House and Senate — and likely scrambled the next presidential race. A number of Republicans are talking about whether up-and-coming candidates should skip 2028 for 2032, and there are real questions about whether Vice President...",
     "published_at": "2026-11-17T15:23:41Z",
     "source_url": "https://thehill.com/homenews/campaign/fight-for-2028/6224955-vance-presidency-future-outlook/",
-    "source": "The Hill — Senate",
+    "source": "The Hill — House",
     "category": "國會動態"
   },
   {
     "id": "271877bbeb2c5050ec1b",
     "title": "US attorney threatens probe of Garcia over Trump investigation remarks",
-    "summary": "A U.S. attorney in Texas on Monday sent his fourth letter threatening to investigate a Democratic lawmaker, launching a “preliminary inquiry” into House Oversight and Government Reform Committee Chair Robert Garcia (D-Calif.) and telling him to preserve documents. Aaron Reitz, the U.S. attorney for the Southern District of Texas, has no particular oversight into activities...",
+    "summary": "A U.S. attorney in Texas on Monday sent his fourth letter threatening to investigate a Democratic lawmaker, launching a “preliminary inquiry” into incoming House Oversight and Government Reform Committee Chair Robert Garcia (D-Calif.) and telling him to preserve documents. Aaron Reitz, the U.S. attorney for the Southern District of Texas, has no particular oversight into...",
     "published_at": "2026-11-17T15:19:29Z",
     "source_url": "https://thehill.com/the-120/6224997-texas-us-attorney-investigates-garcia/",
     "source": "The Hill — House",
@@ -144,12 +225,30 @@
     "category": "國會動態"
   },
   {
+    "id": "4112abc0f2032607da5f",
+    "title": "These incoming members of Congress have been here before",
+    "summary": "‘Treat your staff well,’ says one former aide turned lawmaker",
+    "published_at": "2026-11-17T14:54:18Z",
+    "source_url": "https://rollcall.com/2026/11/17/incoming-members-congress-former-staffers",
+    "source": "Roll Call",
+    "category": "國會動態"
+  },
+  {
     "id": "8677757e9ff629770bac",
     "title": "Watch live: Cao faces Senate confirmation hearing to lead Navy",
     "summary": "Acting Navy Secretary Hung Cao will appear before the Senate Armed Services Committee on Tuesday as he seeks confirmation to permanently lead the branch. Cao, a retired Navy captain, took over in April following the ouster of former Navy Secretary John Phelan, who reportedly clashed with Defense Secretary Pete Hegseth. He is expected to face...",
     "published_at": "2026-11-17T13:43:51Z",
     "source_url": "https://thehill.com/policy/defense/6224418-hung-cao-navy-secretary-hearing/",
     "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "5216962446fc265c4467",
+    "title": "New aviation funding request hits Senate turbulence",
+    "summary": "Republican senators seek more details on Trump administration's $50 billion request",
+    "published_at": "2026-11-17T11:01:48Z",
+    "source_url": "https://rollcall.com/2026/11/17/new-aviation-funding-request-hits-senate-turbulence",
+    "source": "Roll Call",
     "category": "國會動態"
   },
   {
@@ -249,6 +348,15 @@
     "published_at": "2026-11-16T11:00:00Z",
     "source_url": "https://thehill.com/homenews/house/6220113-immigration-reform-democrats-trump/",
     "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "2dd479dc7a67674a2abc",
+    "title": "This week: Permitting bill hits Senate floor amid aviation funding fight",
+    "summary": "Senate Democratic leadership contest continues behind the scenes",
+    "published_at": "2026-11-16T06:09:34Z",
+    "source_url": "https://rollcall.com/2026/11/16/this-week-permitting-bill-hits-senate-floor-amid-aviation-funding-fight",
+    "source": "Roll Call",
     "category": "國會動態"
   },
   {
@@ -387,6 +495,15 @@
     "category": "國會動態"
   },
   {
+    "id": "388dabb023aa21944382",
+    "title": "Former Washington Rep. Jim McDermott dies at 89",
+    "summary": "Fiery liberal for universal health care had moved to France after retirement from Congress",
+    "published_at": "2026-11-13T19:50:42Z",
+    "source_url": "https://rollcall.com/2026/11/13/former-washington-rep-jim-mcdermott-dies-at-89",
+    "source": "Roll Call",
+    "category": "國會動態"
+  },
+  {
     "id": "4f24038f25c4ed6366ad",
     "title": "Democratic Sen.-elect Flanagan backs Van Hollen over Schumer",
     "summary": "Democratic Sen.-elect Peggy Flanagan of Minnesota announced Friday that she’s backing Sen. Chris Van Hollen (D-Md.) in his challenge to Sen. Chuck Schumer (D-N.Y.) to become Senate majority leader next year. “Minnesotans are demanding change. Democrats need to deliver. That starts with new voices in our leadership. I believe @ChrisVanHollen is the leader and fighter...",
@@ -495,57 +612,12 @@
     "category": "國會動態"
   },
   {
-    "id": "0c892f1fc9c8b77d1672",
-    "title": "Van Hollen says he will challenge Schumer for majority leader",
-    "summary": "Sen. Chris Van Hollen (D-Md.) said he would challenge Senate Minority Leader Chuck Schumer (D-N.Y.) for the role of majority leader on Thursday, setting up a showdown in the upper chamber as Democrats prepare to retake the majority. In a post to the social platform X, Van Hollen called for “new leadership” in the Senate....",
-    "published_at": "2026-11-13T02:43:20Z",
-    "source_url": "https://thehill.com/homenews/senate/6217923-van-hollen-challenges-schumer/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "297bd055321a8327d7a5",
-    "title": "Senate Democrats weigh December funding deadline to force an end to Iran war",
-    "summary": "Some Senate Democrats are looking to use a looming government funding deadline to force the Trump administration to end the war in Iran. While party leaders have yet to decide on whether to risk a shutdown, the desire for action from a mix of progressives and moderates could throw a wrench into the end-of-year legislative...",
-    "published_at": "2026-11-12T23:00:58Z",
-    "source_url": "https://thehill.com/homenews/senate/6217635-senate-democrats-threaten-shutdown-iran/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "964aebcf0e4962de4e7c",
-    "title": "Top trade committee Democrats launch probe into Trump administration approving Nvidia's chip sales to China",
-    "summary": "The top Democrats on the House and Senate's trade committees are requesting the Commerce Department preserve its records on President Trump's decision late last year to allow Nvidia to sell its H200 chips to China. The investigation was announced Thursday by Sen. Ron Wyden (D-Ore.), ranking member of the Senate Finance Committee; and Rep. Richard...",
-    "published_at": "2026-11-12T22:52:19Z",
-    "source_url": "https://thehill.com/policy/technology/6217470-democrats-investigate-trump-nvidia-chips-china/",
-    "source": "The Hill — House",
-    "category": "涉台／涉中"
-  },
-  {
-    "id": "3560e10138252fb52d77",
-    "title": "GOP lawmaker says party is focusing on 'political power' rather than people",
-    "summary": "Texas Rep. Chip Roy (R) issued a scathing rebuke of the Republican Party on Thursday, after the GOP lost control of both chambers of Congress in the midterm elections last week. Roy, who will depart his role on Jan. 3 after launching an unsuccessful bid for Texas attorney general, spoke for nearly half an hour...",
-    "published_at": "2026-11-12T22:45:59Z",
-    "source_url": "https://thehill.com/homenews/house/6217576-gop-lawmaker-says-party-is-focusing-on-political-power-rather-than-people/",
-    "source": "The Hill — House",
-    "category": "國會動態"
-  },
-  {
-    "id": "3b18aa648fb9c4ea02b0",
-    "title": "Shaheen, Tillis demand probe into Ukraine Starshield restrictions",
-    "summary": "Outgoing bipartisan senators outraged over Ukrainian reports of interruptions to military-grade satellite access are calling for Congress to pursue accountability for the shutdown, focusing on Elon Musk’s company SpaceX and the Pentagon. Sens. Jeanne Shaheen (D-N.H.) and Thom Tillis (R-N.C.) issued a statement obtained exclusively by The Hill urging Congress to conduct oversigh",
-    "published_at": "2026-11-12T22:29:30Z",
-    "source_url": "https://thehill.com/homenews/senate/6217524-shaheen-tillis-ukraine-starshield-probe/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "67423c2244e0373fbd13",
-    "title": "Democrats push to remove US-Israel tech measure from defense bill",
-    "summary": "The measures call for enhanced cooperation between the U.S. and Israel on weapons technology development.",
-    "published_at": "2026-11-12T22:21:53Z",
-    "source_url": "https://www.defensenews.com/congress/2026/11/12/democrats-push-to-remove-us-israel-tech-measure-from-defense-bill/",
-    "source": "Defense News — Congress",
+    "id": "a721089738f59ab36da6",
+    "title": "Legislative Branch bill would hold off on GAO cuts",
+    "summary": "Watchdog office would see a nearly 6 percent increase from fiscal 2026",
+    "published_at": "2026-11-13T06:00:00Z",
+    "source_url": "https://rollcall.com/2026/11/13/legislative-branch-bill-would-hold-off-on-gao-cuts",
+    "source": "Roll Call",
     "category": "國會動態"
   }
 ]
