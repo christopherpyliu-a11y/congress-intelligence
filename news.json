@@ -1,5 +1,41 @@
 [
   {
+    "id": "6eec4976e7064b21d972",
+    "title": "Cassidy rejects Trump nominee to lead National Science Foundation",
+    "summary": "A key Senate committee rejected the Trump administration’s pick to lead the National Science Foundation (NSF), just hours after the White House decided to pull the plug on its nominee to lead the Food and Drug Administration. Sen. Bill Cassidy (R-La.), chairman of the Senate health committee, on Wednesday said Jim O’Neill, who previously served...",
+    "published_at": "2026-11-19T12:49:54Z",
+    "source_url": "https://thehill.com/policy/healthcare/6229707-senate-rejects-nsf-nominee-jim-oneill/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "6781adcde2d787d5fdc5",
+    "title": "Democrats worry Van Hollen’s hard-line Iran stance could trigger shutdown",
+    "summary": "Senate Democrats are pushing back on Sen. Chris Van Hollen’s (D-Md.) call to insist on adding language to any government funding bill to immediately end the Iran war, warning that stumbling into a government shutdown before the holidays would be a disastrous move. Van Hollen’s demand to use government funding as leverage to shut down...",
+    "published_at": "2026-11-19T11:00:00Z",
+    "source_url": "https://thehill.com/homenews/senate/6228970-senate-democrats-avoid-shutdown/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "e5745193358376dbbfcc",
+    "title": "Congress drifts toward shutdown deadline without a funding strategy",
+    "summary": "Congress has less than a month before the deadline to fund the government, and neither party has coalesced around a battle strategy for what’s almost certain to be a testy fight. Republicans still have the majority until January, but they have moved slowly on full-year spending bills, meaning they only have a handful of weeks...",
+    "published_at": "2026-11-19T11:00:00Z",
+    "source_url": "https://thehill.com/homenews/senate/6229008-congress-faces-government-shutdown-deadline/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "5102497e22e8db6cb364",
+    "title": "Tempers flare as future of Social Security debated",
+    "summary": "Senate Budget chairman's 'Ponzi scheme' comments rile Democrats in search of a legislative fix",
+    "published_at": "2026-11-19T06:18:21Z",
+    "source_url": "https://rollcall.com/2026/11/19/tempers-flare-as-future-of-social-security-debated",
+    "source": "Roll Call",
+    "category": "國會動態"
+  },
+  {
     "id": "b46cd48ab136eddfd601",
     "title": "Cornyn blocks Trump's nomination to federal district court because he didn't choose a Texan",
     "summary": "Sen. John Cornyn (R-Texas) on Wednesday blocked President Trump's judicial nominee T. Elliot Gaiser from being confirmed for a seat on the U.S. District Court in the Northern District of Texas because the nominee is not from Texas. Cornyn, the outgoing senator to be succeeded by Sen.-elect James Talarico (D-Texas), did not submit a blue...",
@@ -131,7 +167,7 @@
     "summary": "Sen. Bernie Sanders (I-Vt.) threw his support behind proposed Medicare reforms from House Minority Leader Hakeem Jeffries (D-N.Y.), who is poised to serve as Speaker in the next Congress. The independent senator told MS NOW’s Chris Hayes he was “very glad” to see the House Democratic leader’s proposal. “If we can do it — and...",
     "published_at": "2026-11-18T16:15:48Z",
     "source_url": "https://thehill.com/policy/healthcare/6227738-sanders-jeffriess-medicare-expansion-plan/",
-    "source": "The Hill — Senate",
+    "source": "The Hill — House",
     "category": "國會動態"
   },
   {
@@ -743,24 +779,6 @@
     "summary": "Democrat Mary Peltola has again expanded her lead in Alaska’s U.S. Senate race with more votes counted, now ahead of Sen. Dan Sullivan (R) by nearly 4 points, or more than 10,000 votes, according to Decision Desk HQ (DDHQ). Peltola netted nearly 2,000 votes from the latest batch of votes added. The Alaska Democrat now...",
     "published_at": "2026-11-14T13:02:13Z",
     "source_url": "https://thehill.com/homenews/campaign/6220605-peltola-leads-alaska-senate/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "61533fbc647d291f4b45",
-    "title": "Schumer allies voice confidence, argue Van Hollen challenge about ending ‘filibuster’",
-    "summary": "Senate Democratic Leader Chuck Schumer’s (N.Y.) allies are predicting he will get more than 40 votes in his leadership contest against Sen. Chris Van Hollen (D-Md.) while slamming the challenge as a “distraction.” That would be an overwhelming majority of the Senate Democratic caucus, which will have at least 55 members and possibly 56 if...",
-    "published_at": "2026-11-14T11:00:00Z",
-    "source_url": "https://thehill.com/homenews/senate/6220115-senate-democrats-leadership-election-update/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "30910fabcb70f236dc66",
-    "title": "Senate Democrats prepare to flex new oversight powers against Musk",
-    "summary": "Democrats have spent the first half of the second Trump presidency openly questioning how Elon Musk has wielded influence over the federal government. Soon, they will have the chance to ask him directly. Fresh off a sweeping victory in the midterm elections, Senate Democrats are keen to use their new majority to investigate Musk and...",
-    "published_at": "2026-11-14T11:00:00Z",
-    "source_url": "https://thehill.com/the-120/6219817-musk-faces-democratic-oversight/",
     "source": "The Hill — Senate",
     "category": "國會動態"
   }
