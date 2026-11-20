@@ -1,7 +1,70 @@
 [
   {
+    "id": "dad9e01d307267950eaf",
+    "title": "Tillis holds up Trump nominee for top watchdog post",
+    "summary": "Retiring Sen. Thom Tillis (R-N.C.) is holding up Eric Ueland, President Trump’s nominee to lead the Government Accountability Office (GAO), which serves as Congress’s watchdog for the executive branch, over concerns about Ueland’s independence. Tillis told The Hill on Friday that he’s insisting Ueland not be included in a larger “en bloc” package of nominations,...",
+    "published_at": "2026-11-20T18:06:50Z",
+    "source_url": "https://thehill.com/homenews/senate/6233748-senate-undecided-eric-ualand-gao/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "bcd81db0a9d1e39dbfff",
+    "title": "Democrat trolls Van Orden with photo lying down in Capitol Rotunda",
+    "summary": "Rep.-elect Rebecca Cooke (D-Wis.) took a jab this week at the GOP lawmaker she ousted in the midterm elections, referencing a 2023 incident in which Rep. Derrick Van Orden (R-Wis.) cursed at Senate pages. In a Thursday social media post marking the end of the freshman orientation on Capitol Hill for incoming lawmakers, Cooke shared...",
+    "published_at": "2026-11-20T17:49:40Z",
+    "source_url": "https://thehill.com/homenews/house/6233692-cooke-van-orden-rotunda-clash/",
+    "source": "The Hill — House",
+    "category": "國會動態"
+  },
+  {
+    "id": "2518c118fb819f811e90",
+    "title": "These 14 Democratic senators voted to loosen environmental laws to speed up energy build-out",
+    "summary": "The Senate voted late Thursday night to pass a law that seeks to speed up the nation’s energy and infrastructure build-out, including by loosening its environmental laws. The bill was a bipartisan push, spearheaded by Sens. Sheldon Whitehouse (D-R.I.), Martin Heinrich (D-N.M.), Shelley Moore Capito (R-W.Va.) and Mike Lee (R-Utah). Nevertheless, most Democrats opposed the...",
+    "published_at": "2026-11-20T16:26:22Z",
+    "source_url": "https://thehill.com/policy/energy-environment/6233302-14-democrats-vote-yes-permitting-energy-bill/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "3b76d29f97cba6f82cae",
+    "title": "Democrats press Lutnick for Megaspeed investigation findings",
+    "summary": "Reps. Sydney Kamlager-Dove (D-Calif.) and Gregory Meeks (D-N.Y.), ranking member on the House Foreign Affairs Committee, are pressing Commerce Secretary Howard Lutnick for information about the agency's investigation into Megaspeed. Megaspeed, a Singapore-based data center company, is facing a probe from the Department of Commerce and the Department of Justice (DOJ) over whethe",
+    "published_at": "2026-11-20T16:23:43Z",
+    "source_url": "https://thehill.com/policy/technology/6233251-nvidia-ai-chip-smuggling-investigation/",
+    "source": "The Hill — House",
+    "category": "國會動態"
+  },
+  {
+    "id": "6badda94686efa579a25",
+    "title": "Zinke says Republicans 'moving on' from Trump",
+    "summary": "Rep. Ryan Zinke (R-Mont.) on Thursday evening indicated that Republican lawmakers are distancing themselves from President Trump after they lost control of Congress in the midterm elections. “They're moving on, but no doubt, the president took a little pain off them,” Zinke told host Blake Burman on NewsNation’s “The Hill.” “And I would say, some...",
+    "published_at": "2026-11-20T15:55:32Z",
+    "source_url": "https://thehill.com/homenews/house/6233182-zinke-says-gop-distancing-trump-midterms/",
+    "source": "The Hill — House",
+    "category": "國會動態"
+  },
+  {
+    "id": "647953b905eb26bf711d",
+    "title": "Hawley says wife trying to discourage presidential campaign",
+    "summary": "Sen. Josh Hawley (R-Mo.) said he is giving “serious thought” to his role in Republican politics as the 2028 election cycle inches closer. Hawley, in an interview with NBC News, said he was alarmed by the outcome of the midterms, in which Democrats flipped both chambers of Congress, and he wanted to do his part...",
+    "published_at": "2026-11-20T15:16:40Z",
+    "source_url": "https://thehill.com/homenews/campaign/6232791-josh-hawley-2028-presidential-chatter-gop-midterm-losses/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "ba40df8d1750ea8b0ce6",
+    "title": "Republicans shift from Vance to Rubio in new 2028 polling",
+    "summary": "New polling shows Republicans moving away from Vice President Vance and toward Secretary of State Marco Rubio ahead of the 2028 presidential election. What’s driving the dramatic shift? Plus, the incoming freshman class of Congress raises concerns about a “self-loathing” view of politics in Washington. Join The Hill’s senior vice president of editorial content, Bill Sammon,...",
+    "published_at": "2026-11-20T13:32:11Z",
+    "source_url": "https://thehill.com/newsletters/whole-hog-politics/whole-hog-politics-live-briefing/6232602-gop-shift-2028-presidential-race-marco-rubio-jd-vance-discussion/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
     "id": "edfa34d293981f610d18",
-    "title": "Trump’s Pentagon push puts GOP Medicaid cuts at risk",
+    "title": "Thune fears GOP revolt over Medicaid cuts in Pentagon funding push",
     "summary": "Senate Majority Leader John Thune (R-S.D.) is leery about advancing a budget reconciliation package to fund the Pentagon as he and other GOP senators fear there will be a revolt within their ranks over reforms projected to reduce Medicaid spending by as much as $1 trillion. Thune has touted the changes to Medicaid that Republicans...",
     "published_at": "2026-11-20T11:00:00Z",
     "source_url": "https://thehill.com/homenews/senate/6232138-thune-hesitates-pentagon-budget/",
@@ -11,7 +74,7 @@
   {
     "id": "3b93fbc9a934965955e8",
     "title": "Gen Z helped Democrats win. Now it may want new leadership",
-    "summary": "Gen Z delivered a decisive win for Democrats in the 2026 midterm elections. Now they may want to see change in party leadership. Sen. Chuck Schumer (D-N.Y.), who has led Senate Democrats since 2017, is facing achallenge from Sen. Chris Van Hollen (D-Md.) to become majority leader in the Democratic-controlled 120th Congress. Van Hollen is...",
+    "summary": "Generation Z helped to deliver a decisive win for Democrats in the 2026 midterm elections. Now they may want to see change in party leadership. Sen. Chuck Schumer (D-N.Y.), who has led Senate Democrats since 2017, is facing a challenge from Sen. Chris Van Hollen (D-Md.) to become majority leader in the Democratic-controlled 120th Congress. ...",
     "published_at": "2026-11-20T11:00:00Z",
     "source_url": "https://thehill.com/homenews/senate/6231953-gen-z-democrats-schumer-van-hollen/",
     "source": "The Hill — Senate",
@@ -20,7 +83,7 @@
   {
     "id": "b3943e29a21f5c0e9029",
     "title": "Raskin warns federal agencies against Signal use",
-    "summary": "Rep. Jamie Raskin (D-Md.), the top Democrat on the House Judiciary Committee, warned a host of federal agencies Thursday against using apps like Signal with auto-deleting messages, writing that it violates the law and could undermine congressional oversight efforts. The half a dozen letters to Justice Department components and various Department of Homeland Security (DHS)...",
+    "summary": "Rep. Jamie Raskin (Md.), the top Democrat on the House Judiciary Committee, warned a host of federal agencies Thursday against using apps like Signal with auto-deleting messages, writing that it violates the law and could undermine congressional oversight efforts. The half dozen letters to Justice Department components and various Department of Homeland Security agencies come..",
     "published_at": "2026-11-20T09:45:00Z",
     "source_url": "https://thehill.com/homenews/house/6231917-raskin-warns-fbi-signal-usage/",
     "source": "The Hill — House",
@@ -38,7 +101,7 @@
   {
     "id": "4c6fd66e972a45bbff34",
     "title": "DOJ looks to dismiss Alaska Senate lawsuit",
-    "summary": "The Department of Justice (DOJ) is looking to dismiss its lawsuit that was focused on blocking the certification of Alaska’s Senate race if Sen.-elect Mary Peltola (D) won, according to Thursday court filings. This case centered on the DOJ’s anger over the presence of a spoiler candidate who shared the same name as incumbent Sen....",
+    "summary": "The Department of Justice (DOJ) is looking to dismiss its lawsuit that was focused on blocking the certification of Alaska’s Senate race in the event Sen.-elect Mary Peltola (D) won, according to Thursday court filings. The case centered on the DOJ’s anger over the presence of a spoiler candidate who shared the same name as...",
     "published_at": "2026-11-20T03:25:33Z",
     "source_url": "https://thehill.com/regulation/court-battles/6232324-doj-seeks-alaska-senate-lawsuit-dismissal/",
     "source": "The Hill — Senate",
@@ -47,7 +110,7 @@
   {
     "id": "f9ee490c85bfc1763f04",
     "title": "Senate approves key permitting reform bill, sends to House",
-    "summary": "The Senate on Thursday passed a major bill that seeks to speed up the buildout of the nation’s energy and infrastructure — taking a massive step toward the bill becoming law. The vote was passed by a vote of 62-33. Just two Republicans, Sens. Mike Rounds (S.D.) and Josh Hawley (Mo.) voted against the bill....",
+    "summary": "The Senate on Thursday passed a major bill that seeks to speed up the build-out of the nation’s energy and infrastructure — taking a massive step toward the bill becoming law. The bill was passed by a vote of 62-33. Just two Republicans, Sens. Mike Rounds (S.D.) and Josh Hawley (Mo.), voted against the bill....",
     "published_at": "2026-11-20T03:09:11Z",
     "source_url": "https://thehill.com/homenews/senate/6229829-senate-passes-permitting-reform/",
     "source": "The Hill — Senate",
@@ -74,7 +137,7 @@
   {
     "id": "0a0454bea4e9a7015824",
     "title": "Sweeping permitting overhaul passes Senate, on to House",
-    "summary": "After years of fits and starts, measure expected to clear after Thanksgiving",
+    "summary": "After years of fits and starts, final vote expected after Thanksgiving",
     "published_at": "2026-11-19T22:27:55Z",
     "source_url": "https://rollcall.com/2026/11/19/sweeping-permitting-overhaul-passes-senate-on-to-house",
     "source": "Roll Call",
@@ -898,32 +961,5 @@
     "source_url": "https://thehill.com/homenews/campaign/6221530-scott-colom-democrats-invest-mississippi/",
     "source": "The Hill — Senate",
     "category": "國會動態"
-  },
-  {
-    "id": "5347677a4dc566300f58",
-    "title": "Van Hollen: Schumer inflating support",
-    "summary": "Editor's note: The headline of this report has been updated to more accurately reflect the comments of Sen. Chris Van Hollen (D-Md.). Sen. Chris Van Hollen (D-Md.) said Sunday that several senators whom Senate Minority Leader Chuck Schumer’s (D-N.Y.) team claimed would vote for him have privately pledged to back Van Hollen instead for majority...",
-    "published_at": "2026-11-15T16:45:31Z",
-    "source_url": "https://thehill.com/homenews/senate/6221394-van-hollen-challenges-schumer/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "fa51cc5da219aebba32b",
-    "title": "Van Hollen says 'bunch of nonsense' that he can't win Senate majority leader",
-    "summary": "Sen. Chris Van Hollen (D-Md.) called a recent report from The Hill — which revealed Senate insiders are predicting Senate Minority Leader Chuck Schumer (D-N.Y.) will get more than 40 votes in the Democratic leadership contest — “a bunch of nonsense.” The report also alleged that Schumer’s allies believed Van Hollen was using the leadership...",
-    "published_at": "2026-11-15T15:11:11Z",
-    "source_url": "https://thehill.com/the-120/6221313-senate-majority-leader-race-van-hollen/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "b21c3f4bec443042e82d",
-    "title": "Bessent, Congress zero in on Lutnick’s role in Nvidia-Megaspeed scandal",
-    "summary": "Commerce Secretary Howard Lutnick is facing heat in Washington, including from Treasury Secretary Scott Bessent, over his approach to AI chip export controls amid Nvidia's national security scandal. Reports emerged this week that Lutnick took a softer line on Nvidia over the tech giant’s AI chip sales to China and failed to put the Singaporean...",
-    "published_at": "2026-11-15T14:06:18Z",
-    "source_url": "https://thehill.com/policy/technology/6219334-commerce-secretary-scrutiny-megaspeed-nvidia-scandal/",
-    "source": "The Hill — House",
-    "category": "涉台／涉中"
   }
 ]
