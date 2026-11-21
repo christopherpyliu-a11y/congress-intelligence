@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-11-21T01:26:28.328010+00:00",
+  "checked_at": "2026-11-21T09:40:19.061537+00:00",
   "last_window_days": 5,
-  "new_items": 4,
-  "retained_items": 108,
+  "new_items": 0,
+  "retained_items": 107,
   "sources": {
     "The Hill — House": {
       "ok": true,
@@ -10,11 +10,11 @@
     },
     "The Hill — Senate": {
       "ok": true,
-      "fetched": 12
+      "fetched": 11
     },
     "Roll Call": {
       "ok": true,
-      "fetched": 18
+      "fetched": 17
     },
     "Defense News — Congress": {
       "ok": true,
