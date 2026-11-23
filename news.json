@@ -1,11 +1,74 @@
 [
   {
+    "id": "03e492dac85c3673d91c",
+    "title": "Democrats secure largest House majority in election in three decades",
+    "summary": "Democrats have secured the largest House majority in a regular election in decades, following their notable 2026 midterm election victories in regions where they have historically struggled. According to Decision Desk HQ, Democrats are projected to lock down 258 seats in the House for the next Congress. The last time the party secured that many...",
+    "published_at": "2026-11-22T21:33:52Z",
+    "source_url": "https://thehill.com/homenews/house/6236301-democrats-secure-house-majority/",
+    "source": "The Hill — House",
+    "category": "國會動態"
+  },
+  {
+    "id": "711782a6e676a08fea8f",
+    "title": "El-Sayed would pass Medicare for All as 'TrumpCare': 'I don't really care what it's called'",
+    "summary": "Sen.-elect Abdul El-Sayed (D-Mich.) on Sunday said he would pass a single-payer healthcare bill — commonly referred to as “Medicare for All” — with the name “TrumpCare,” adding that he does not “really care what it’s called.” During El-Sayed’s interview with NBC News’s “Meet the Press” on Sunday, host Kristen Welker noted that President Trump...",
+    "published_at": "2026-11-22T21:24:40Z",
+    "source_url": "https://thehill.com/homenews/senate/6235945-abdul-el-sayed-trumpcare-medicare-all/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "17c88567eba7854d0f77",
+    "title": "Democratic lawmaker says next Congress will focus on using AI to improve healthcare, jobs, agriculture",
+    "summary": "Rep. Brad Schneider (D-Ill.) said the next Congress will be focusing on using AI to improve healthcare, jobs and agriculture. “We can make sure that we do have people overseeing and protecting American interests, American citizens from the risk of AI, while at the same time, making sure that American companies and American technologies are...",
+    "published_at": "2026-11-22T20:52:30Z",
+    "source_url": "https://thehill.com/the-120/6236244-democrats-ai-policy-focus/",
+    "source": "The Hill — House",
+    "category": "國會動態"
+  },
+  {
+    "id": "dce1823dadab7cf7506e",
+    "title": "Flanagan says wins made by her, Peltola 'makes our capital look a little bit more like America'",
+    "summary": "Sen.-elect Peggy Flanagan (D-Minn.) on Sunday said the victories won by her and Sen.-elect Mary Peltola (D-Alaska) as the first Native American women to be in the U.S. Senate \"makes our capital look a little bit more like America.\" Flanagan told CNN's Dana Bash on \"State of the Union\" that she didn't run to \"make...",
+    "published_at": "2026-11-22T20:27:35Z",
+    "source_url": "https://thehill.com/homenews/senate/6235791-peggy-flanagan-says-wins-made-by-her-mary-peltola-makes-our-capitol-look-a-little-bit-more-like-america/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "ebe10fba9bd09efc9d60",
+    "title": "Jeffries says he'll move to ban lawmakers from stock trading 'very early' in next Congress",
+    "summary": "House Minority Leader Hakeem Jeffries (D-N.Y.), likely the next House Speaker, said Sunday that he will take action to bar lawmakers from trading stocks “very early” in the next Congress. “So, well, listen, we've got to clean up the mess in Washington. That means the Congress, that means the Supreme Court and that also means...",
+    "published_at": "2026-11-22T20:20:40Z",
+    "source_url": "https://thehill.com/homenews/house/6236202-jeffries-plans-congressional-stock-ban/",
+    "source": "The Hill — House",
+    "category": "國會動態"
+  },
+  {
+    "id": "13d342af6e9f1fe85e35",
+    "title": "GOP lawmaker 'optimistic' about passing AI bill before next Congress",
+    "summary": "Rep. Jay Obernolte (R-Calif.) said Sunday he is “optimistic” that Congress can pass a bipartisan artificial intelligence bill before the end of the year, despite a narrowing window for Republicans to advance legislation before Democrats take control of the House in January. Obernolte, who chairs the House Republican Policy Committee, said lawmakers have made significant...",
+    "published_at": "2026-11-22T19:28:31Z",
+    "source_url": "https://thehill.com/homenews/house/6236083-obernolte-gaia-ai-bill-progress/",
+    "source": "The Hill — House",
+    "category": "國會動態"
+  },
+  {
     "id": "c317f63393e955c7049a",
     "title": "Flanagan says she 'appreciates' Schumer, but Van Hollen leads 'like an organizer'",
-    "summary": "Sen.-elect Peggy Flanagan (D-Minn.) on Sunday said she appreciated Senate Minority Leader Chuck Schumer's (D-N.Y.) leadership and work in the upper chamber, but praised Sen. Chris Van Hollen's (D-Md.) bid for leadership, saying that he leads \"like an organizer.\" CNN's \"State of the Union\" host Dana Bash asked Flanagan if voters will \"punish\" senators who...",
+    "summary": "Sen.-elect Peggy Flanagan (D-Minn.) on Sunday said she appreciated Senate Minority Leader Chuck Schumer's (D-N.Y.) leadership and work in the upper chamber but praised Sen. Chris Van Hollen's (D-Md.) bid for leadership, saying that he leads \"like an organizer.\" CNN's \"State of the Union\" host Dana Bash asked Flanagan if voters will \"punish\" senators who...",
     "published_at": "2026-11-22T18:21:02Z",
     "source_url": "https://thehill.com/homenews/senate/6235792-peggy-flanagan-van-hollen/",
     "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "9d1e3da686bb4874418a",
+    "title": "GOP Rep. Virginia Foxx ousted in rematch",
+    "summary": "Powerful Rules Committee chair couldn't stem Democrats' midterm tidal wave",
+    "published_at": "2026-11-22T15:10:28Z",
+    "source_url": "https://rollcall.com/2026/11/22/gop-rep-virginia-foxx-ousted-in-rematch",
+    "source": "Roll Call",
     "category": "國會動態"
   },
   {
@@ -762,132 +825,6 @@
     "published_at": "2026-11-18T01:08:53Z",
     "source_url": "https://thehill.com/policy/healthcare/6226487-white-house-withdraws-fda-nomination/",
     "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "e9a2e1b34a4bd3c7eaa4",
-    "title": "Mary Peltola unseats Republican Sen. Dan Sullivan in Alaska",
-    "summary": "Senate Democratic Caucus will be 56-seat strong in the 120th Congress",
-    "published_at": "2026-11-17T23:23:22Z",
-    "source_url": "https://rollcall.com/2026/11/17/mary-peltola-dan-sullivan-alaska-senate",
-    "source": "Roll Call",
-    "category": "國會動態"
-  },
-  {
-    "id": "66307f7523f7bfed4cfa",
-    "title": "Hung Cao grilled by Senate over suicide attempts, Iran war: 5 takeaways",
-    "summary": "Senators on both sides of the aisle grilled acting Navy Secretary Hung Cao on Tuesday with questions over sailor suicide attempts on Navy ships, the U.S. war against Iran and the lack of progress on shipbuilding in a contentious two-and-a-half-hour confirmation hearing. Senate Armed Services Committee lawmakers berated the Pentagon for holding some classified briefings...",
-    "published_at": "2026-11-17T21:44:13Z",
-    "source_url": "https://thehill.com/policy/defense/6226459-navy-secretary-confirmation-clash/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "042ff7a3888ac38d7729",
-    "title": "Ocasio-Cortez, in rare Fox News appearance, says DOT shouldn't get blank check",
-    "summary": "In a rare Fox News appearance Tuesday, Rep. Alexandria Ocasio-Cortez (D-N.Y.) pushed back on Transportation Secretary Sean Duffy’s calls for $50 billion in emergency funding to overhaul the air traffic control system following a nationwide ground stop, arguing Congress should not hand the Trump administration a blank check without more transparency. While the progressive Democr",
-    "published_at": "2026-11-17T21:37:30Z",
-    "source_url": "https://thehill.com/homenews/house/6226368-ocasio-cortez-in-rare-fox-news-appearance-says-dot-shouldnt-get-blank-check/",
-    "source": "The Hill — House",
-    "category": "國會動態"
-  },
-  {
-    "id": "75ae291231973092c2ba",
-    "title": "Democratic lawmakers slam Huang statement on possible Nvidia return: 'Slow your roll'",
-    "summary": "Top Democrats criticized ex-Nvidia CEO Jensen Huang’s statement that he was willing to return to the company he co-founded, as Huang prepares to answer questions before Congress on his extramarital affairs and possible national security risks. Huang resigned as CEO of the tech giant following revelations that he had a relationship with a woman the...",
-    "published_at": "2026-11-17T21:36:42Z",
-    "source_url": "https://thehill.com/business/6226369-democrats-oppose-huang-nvidia-return/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "eb7be7781d3ce8f162b4",
-    "title": "Senate Dems dismiss talk of earlier leadership election; Schumer confident",
-    "summary": "Backers of Sen. Chris Van Hollen’s bid have criticized talk of earlier leadership vote",
-    "published_at": "2026-11-17T21:00:16Z",
-    "source_url": "https://rollcall.com/2026/11/17/senate-democrats-leadership-vote",
-    "source": "Roll Call",
-    "category": "國會動態"
-  },
-  {
-    "id": "fad1d2f911fd0e01b38c",
-    "title": "Why an Alaska win by Peltola is so important to Democrats",
-    "summary": "Senate Democrats are seeking to complete what has been a historic midterm election campaign with one final win in Alaska, where Democrat Mary Peltola is on track to oust Sen. Dan Sullivan (R) as ballots trickle in. A Democratic victory in Alaska would represent the party's ninth midterm Senate flip and make for a 56-seat majority in...",
-    "published_at": "2026-11-17T20:52:22Z",
-    "source_url": "https://thehill.com/homenews/campaign/6226081-alaska-senate-peltola-democrats-majority/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "c344fc7b70ed68edb3cf",
-    "title": "Hill GOP looking to trim White House's $50 billion aviation ask",
-    "summary": "Lawmakers note bulk of modernization funding Congress provided last year for FAA still unspent",
-    "published_at": "2026-11-17T20:25:35Z",
-    "source_url": "https://rollcall.com/2026/11/17/hill-gop-looking-to-trim-white-houses-50-billion-aviation-ask",
-    "source": "Roll Call",
-    "category": "國會動態"
-  },
-  {
-    "id": "0bd2904566b606092196",
-    "title": "Schumer declares he has votes to beat Van Hollen and become majority leader",
-    "summary": "Sen. Chuck Schumer (D-N.Y.) announced Tuesday that he has locked down the votes to be elected majority leader and urged Senate Democrats to “roll up our sleeves” and “focus on lowering costs” and “ending corruption.” Schumer, speaking to reporters after a Democratic caucus lunch, declared that his race against Sen. Chris Van Hollen (D-Md.) to...",
-    "published_at": "2026-11-17T20:23:05Z",
-    "source_url": "https://thehill.com/homenews/senate/6226192-schumer-vs-van-hollen-leadership-race/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "06be4d6933290d26ea08",
-    "title": "Senators still see NDAA as chance for online safety legislation",
-    "summary": "Annual defense policy bill expected in the lame-duck session",
-    "published_at": "2026-11-17T20:15:32Z",
-    "source_url": "https://rollcall.com/2026/11/17/senators-still-see-ndaa-as-chance-for-online-safety-legislation",
-    "source": "Roll Call",
-    "category": "國會動態"
-  },
-  {
-    "id": "9adc6eed3fd33602ad54",
-    "title": "Van Hollen's 2016 opponent backs his bid for majority leader",
-    "summary": "Former Rep. Donna Edwards (D-Md.) announced her support for Sen. Chris Van Hollen (D-Md.) in his bid to become Senate majority leader over Sen. Chuck Schumer (D-N.Y.), the current minority leader. Edwards competed against Van Hollen in 2016 in a contentious Democratic primary for former Sen. Barbara Mikulski’s (D-Md.) open seat. She noted on social...",
-    "published_at": "2026-11-17T19:36:56Z",
-    "source_url": "https://thehill.com/the-120/6226013-donna-edwards-supports-van-hollen/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "f54edb2cfed3a8f60214",
-    "title": "Many Americans view Schumer unfavorably as leadership fight heats up: Poll",
-    "summary": "Ahead of Democrats' December leadership elections, half of Americans in a new poll said they view Senate Minority Leader Chuck Schumer (D-N.Y.) — seeking to stay on top of his party when it takes the majority next year — negatively. In The Economist/YouGov poll, released Tuesday, 50 percent of respondents described their opinion of Schumer...",
-    "published_at": "2026-11-17T19:33:47Z",
-    "source_url": "https://thehill.com/the-120/6225885-chuck-schumer-democrats-unpopularity-poll-results/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "b177d7ab04857913688d",
-    "title": "Jeffries puts immigration bill high on Democratic priority list",
-    "summary": "Calls for ‘immediate’ action on citizenship bill, but more talks on health care agenda",
-    "published_at": "2026-11-17T19:08:59Z",
-    "source_url": "https://rollcall.com/2026/11/17/17jeffries",
-    "source": "Roll Call",
-    "category": "國會動態"
-  },
-  {
-    "id": "ca0d76b5031997fd2620",
-    "title": "Jeffries demands high-level briefing on rash of recent outages: ‘Troubling'",
-    "summary": "House Minority Leader Hakeem Jeffries (D-N.Y.) is calling on the Trump administration to brief Congress on the rash of high-profile outages that have hobbled both public and private sector technology systems in recent days. Jeffries said he’s been in talks with at least one top administration official — Transportation Secretary Sean Duffy — but came...",
-    "published_at": "2026-11-17T18:44:51Z",
-    "source_url": "https://thehill.com/homenews/house/6225752-jeffries-calls-trump-briefings/",
-    "source": "The Hill — House",
-    "category": "國會動態"
-  },
-  {
-    "id": "8b7b69e3196b4bc71cbc",
-    "title": "‘The time to get it done is now’: Lawmakers stress urgency on permitting reform bill",
-    "summary": "Lawmakers on both sides of the aisle are banding together to stress the need for Congress to act now and pass a major bipartisan permitting reform bill, before the makeup of the legislative branch changes next year. At The Hill’s Bipartisan Blueprint event Tuesday, members of Congress tied the bill — the Bipartisan American Affordability...",
-    "published_at": "2026-11-17T18:33:45Z",
-    "source_url": "https://thehill.com/policy/energy-environment/6225607-congress-pushes-baaja-permit-reform/",
-    "source": "The Hill — House",
     "category": "國會動態"
   }
 ]
