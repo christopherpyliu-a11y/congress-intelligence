@@ -1,5 +1,14 @@
 [
   {
+    "id": "57c61ebfa7c480efca1e",
+    "title": "Van Hollen says Democrats have a 'generational opportunity' in the Senate, but the party is 'on probation'",
+    "summary": "Sen. Chris Van Hollen (D-Md.), who is running to become the next Senate majority leader, said Sunday that his party has been handed a “generational opportunity” with their recent wins in the upper chamber, but they are only “on probation.” “I say we have a generational opportunity because of the big mandate, the 56 votes,...",
+    "published_at": "2026-11-23T02:09:55Z",
+    "source_url": "https://thehill.com/the-120/6236489-van-hollen-democrats-have-a-generational-opportunity-in-the-senate-but-the-party-is-on-probation/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
     "id": "03e492dac85c3673d91c",
     "title": "Democrats secure largest House majority in election in three decades",
     "summary": "Democrats have secured the largest House majority in a regular election in decades, following their notable 2026 midterm election victories in regions where they have historically struggled. According to Decision Desk HQ, Democrats are projected to lock down 258 seats in the House for the next Congress. The last time the party secured that many...",
@@ -100,8 +109,8 @@
   },
   {
     "id": "c8738df735a836f7aa75",
-    "title": "Van Hollen says it's still a 'wide-open race' for majority leader",
-    "summary": "Sen. Chris Van Hollen (D-Md.), who is challenging Senate Minority Leader Chuck Schumer (D-N.Y.) to lead the body’s Democratic caucus in the next Congress, said this week that the race for majority leader is “wide open.” The progressive Democrat joined “The MeidasTouch Podcast” for an interview that aired Friday. “I’m the underdog in this race....",
+    "title": "Van Hollen: It's still a 'wide-open race' for majority leader",
+    "summary": "Sen. Chris Van Hollen (D-Md.), who is challenging Senate Minority Leader Chuck Schumer (D-N.Y.) to lead the body’s Democratic caucus in the next Congress, said this week that the race for majority leader is “wide-open.” The progressive Democrat joined “The MeidasTouch Podcast” for an interview that aired Friday. “I’m the underdog in this race. After...",
     "published_at": "2026-11-22T03:10:53Z",
     "source_url": "https://thehill.com/homenews/senate/6235600-van-hollen-schumer-senate-race/",
     "source": "The Hill — Senate",
@@ -110,7 +119,7 @@
   {
     "id": "422fdcb0a79982733010",
     "title": "Rounds: Pentagon restricted socialization between US, Canada defense officials",
-    "summary": "The Department of Defense (DOD) recently issued a memo instructing its staff to limit social and informal interactions between U.S. and Canadian military personnel, Sen. Mike Rounds (R-S.D.) said Saturday. During a press conference at the annual Halifax International Security Forum in Halifax, Nova Scotia, the South Dakota Republican said this order was drafted “several...",
+    "summary": "The Defense Department recently issued a memo instructing its staff to limit social and informal interactions between U.S. and Canadian military personnel, Sen. Mike Rounds (R-S.D.) said Saturday. During a press conference at the annual Halifax International Security Forum in Halifax, Nova Scotia, the South Dakota Republican said this order was drafted “several months ago”...",
     "published_at": "2026-11-21T23:52:23Z",
     "source_url": "https://thehill.com/policy/defense/6235519-dod-limits-us-canada-socializing/",
     "source": "The Hill — Senate",
@@ -781,50 +790,5 @@
     "source_url": "https://thehill.com/homenews/house/6226793-house-investigates-commerce-secretary-conflicts/",
     "source": "The Hill — House",
     "category": "涉台／涉中"
-  },
-  {
-    "id": "ad80cd7c0ca4ce81c24b",
-    "title": "Huang agrees to testify before Senate Banking panel",
-    "summary": "Former Nvidia CEO Jensen Huang has agreed to testify before the Senate Banking Committee, a spokesperson for Chair Tim Scott (R-S.C.) confirmed Tuesday. Lawmakers have ramped up scrutiny of Huang’s alleged extramarital affair with suspected Chinese spy Alice Huang, who worked as an executive at computing company Megaspeed, over concerns that China may have gained...",
-    "published_at": "2026-11-18T03:48:10Z",
-    "source_url": "https://thehill.com/homenews/senate/6227038-jensen-huang-senate-testify/",
-    "source": "The Hill — Senate",
-    "category": "涉台／涉中"
-  },
-  {
-    "id": "03e0e01564a9772af3f8",
-    "title": "Mary Peltola flips Republican Senate seat in Alaska",
-    "summary": "Former Rep. Mary Peltola, a Democrat, is projected to win the race for Senate in Alaska, defeating GOP incumbent Sen. Dan Sullivan and flipping a seat for the Democratic Party, according to Decision Desk HQ. With 94 percent reporting according to DDHQ, Peltola has 50.12 percent of the vote to Sullivan's 45.79 percent, which puts...",
-    "published_at": "2026-11-18T03:21:19Z",
-    "source_url": "https://thehill.com/homenews/campaign/6176074-peltola-wins-alaska-senate/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "da8499936e6d3a68bf08",
-    "title": "Congress agrees on civilian plane locator mandate after deadly American Airlines-Black Hawk crash",
-    "summary": "“When military aircraft fly in the same airspace, they must meet the same standards as everyone else.\"",
-    "published_at": "2026-11-18T03:16:13Z",
-    "source_url": "https://thehill.com/homenews/senate/6226791-congress-civilian-plane-locator-mandate-after-deadly-american-airlines-black-hawk-crash/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "873ede7f94e493553b2e",
-    "title": "Senate Intel Vice Chair Warner says AI contributing to network outages",
-    "summary": "Senate Intelligence Committee ranking member Mark Warner (D-Va.) alleged Tuesday that AI contributed to several high-profile system outages this week, arguing industries are under pressure to quickly identify and fix security issues the technology can easily exploit. “What appears to be happening instead is a consequence of how quickly artificial intelligence is changing the cy",
-    "published_at": "2026-11-18T01:34:12Z",
-    "source_url": "https://thehill.com/homenews/senate/6226826-mark-warner-ai-cybersecurity-system-outages/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "45a9462cb98462918bbd",
-    "title": "White House pulls nomination of Heidi Overton to lead FDA",
-    "summary": "The White House withdrew the nomination of Heidi Overton to lead the Food and Drug Administration (FDA) amid opposition from Senate Republicans, it confirmed to The Hill. Overton was set to face a key vote Wednesday in the Senate health committee, where Republicans hold only a one-vote majority — meaning losing one member would be...",
-    "published_at": "2026-11-18T01:08:53Z",
-    "source_url": "https://thehill.com/policy/healthcare/6226487-white-house-withdraws-fda-nomination/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
   }
 ]
