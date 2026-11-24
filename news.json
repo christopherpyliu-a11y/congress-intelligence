@@ -1,5 +1,23 @@
 [
   {
+    "id": "c002a4b9b09f3a22185a",
+    "title": "Key House Democrat will oppose permitting reform bill",
+    "summary": "Rep. Mike Levin (D-Calif.) on Monday said he will oppose a Senate-passed bill that seeks to speed up the build-out of the nation’s energy and infrastructure. Levin, a clean energy advocate, said in a statement that with the 2026 Bipartisan American Affordability and Jobs Act (BAAJA), \"there's real promise on costs and clean energy deployment.\"...",
+    "published_at": "2026-11-23T22:38:17Z",
+    "source_url": "https://thehill.com/policy/energy-environment/6238574-mike-levin-opposes-baaja/",
+    "source": "The Hill — House",
+    "category": "國會動態"
+  },
+  {
+    "id": "ead1c46118ad30df3e64",
+    "title": "Key GOP lawmaker calls for administration briefing on Huang",
+    "summary": "Rep. Michael McCaul (R-Texas), a former chair of the House Homeland Security Committee, pressed for a briefing from the Trump administration on Jensen Huang’s return to his role as Nvidia CEO. “If administration officials now believe that Mr. Huang’s extramarital relationship with an alleged Chinese intelligence asset — along with Nvidia’s deeply concerning sales of...",
+    "published_at": "2026-11-23T21:55:52Z",
+    "source_url": "https://thehill.com/homenews/house/6238496-mccaul-demands-nvidia-briefing/",
+    "source": "The Hill — House",
+    "category": "國會動態"
+  },
+  {
     "id": "1a6003ad131a73a2485c",
     "title": "Democrat Gomez resigns from House after sexual misconduct report",
     "summary": "Rep. Jimmy Gomez (D-Calif.) said he was resigning from Congress after a House Ethics Committee report found “substantial evidence” that he had engaged in sexual misconduct, including “making unwelcome sexual advances and sexual contact” with a House staffer. Gomez said in a statement Monday that he recognizes the “seriousness” of the committee’s report and takes...",
@@ -45,6 +63,15 @@
     "category": "國會動態"
   },
   {
+    "id": "aff4a1de4a93e55aab7a",
+    "title": "Rep. Jimmy Gomez to resign after sexual misconduct probe",
+    "summary": "Ethics Committee found ‘substantial evidence’ of inappropriate conduct",
+    "published_at": "2026-11-23T18:52:49Z",
+    "source_url": "https://rollcall.com/2026/11/23/rep-jimmy-gomez-to-resign-after-sexual-misconduct-probe",
+    "source": "Roll Call",
+    "category": "國會動態"
+  },
+  {
     "id": "5393e459314b162dddc4",
     "title": "Democrats, angered by Huang’s return to Nvidia, vow investigations, legislation",
     "summary": "Lawmakers in both parties are clamoring for answers after Nvidia’s stunning move to reinstate Jensen Huang at the top of the company, voicing concerns that he poses a national security risk in America’s race with China for global AI dominance. \"Though the NVIDIA Board of Directors may be convinced that reinstating Mr. Huang 'poses no...",
@@ -69,6 +96,15 @@
     "published_at": "2026-11-23T17:37:31Z",
     "source_url": "https://thehill.com/homenews/senate/6237517-senator-curtis-backs-gao-pick/",
     "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "d180bae2e0bcdad0dc64",
+    "title": "Democrats call for chip export and AI limits as Huang returns",
+    "summary": "Nvidia scandal becomes part of race for Senate majority leader",
+    "published_at": "2026-11-23T17:17:05Z",
+    "source_url": "https://rollcall.com/2026/11/23/democrats-call-for-chip-export-and-ai-limits-as-huang-returns",
+    "source": "Roll Call",
     "category": "國會動態"
   },
   {
@@ -636,33 +672,6 @@
     "published_at": "2026-11-19T06:18:21Z",
     "source_url": "https://rollcall.com/2026/11/19/tempers-flare-as-future-of-social-security-debated",
     "source": "Roll Call",
-    "category": "國會動態"
-  },
-  {
-    "id": "b46cd48ab136eddfd601",
-    "title": "Cornyn blocks Trump's nomination to federal district court because he didn't choose a Texan",
-    "summary": "Sen. John Cornyn (R-Texas) on Wednesday blocked President Trump's judicial nominee T. Elliot Gaiser from being confirmed for a seat on the U.S. District Court in the Northern District of Texas because the nominee is not from Texas. Cornyn, the outgoing senator to be succeeded by Sen.-elect James Talarico (D-Texas), did not submit a blue...",
-    "published_at": "2026-11-19T00:26:46Z",
-    "source_url": "https://thehill.com/homenews/senate/6229094-cornyn-blocks-non-texan-judge/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "9fdc52deb7186707a154",
-    "title": "Ron Johnson calls for GOP to ditch filibuster now because Democrats 'are going to eliminate it anyway'",
-    "summary": "Sen. Ron Johnson (R-Wis.) called for his Republican colleagues to vote to “eliminate the filibuster,” noting that the Democrats will do it “anyway.” While discussing what the GOP is hoping to accomplish in the next six weeks before Democratic majority moves into Congress, Johnson said during an interview on Breitbart, that “It all rests on...",
-    "published_at": "2026-11-18T23:29:25Z",
-    "source_url": "https://thehill.com/homenews/senate/6229063-ron-johnson-calls-eliminate-filibuster/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "bbbccbd513a0900719d0",
-    "title": "Top Republican says $350B defense reconciliation top line is 'not going to happen'",
-    "summary": "Rep. Mike Rogers (R-Ala.), the chair of the House Armed Services Committee, on Wednesday poured cold water on the Pentagon’s $350 billion defense reconciliation ask during a Hudson Institute event in Washington, D.C., on Wednesday. “By the way, 350 is not going to to happen. You may have guessed that, but a reconciliation bill is still...",
-    "published_at": "2026-11-18T23:01:27Z",
-    "source_url": "https://thehill.com/policy/defense/6228976-rogers-pentagon-reconciliation-ask/",
-    "source": "The Hill — House",
     "category": "國會動態"
   }
 ]
