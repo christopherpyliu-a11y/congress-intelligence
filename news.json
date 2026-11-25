@@ -1,5 +1,32 @@
 [
   {
+    "id": "08f70a5f58533de9ae9f",
+    "title": "Jensen Huang’s Nvidia comeback gives China chip restrictions new momentum in Congress",
+    "summary": "Jensen Huang's return to Nvidia is lighting a fire under a bipartisan push to pass new restrictions on chip sales to China in a year-end defense bill amid growing concerns about Beijing's ability to circumvent existing rules and access Nvidia's top-of-the-line AI chips. Lawmakers in both chambers were already pushing for a trio of chip...",
+    "published_at": "2026-11-25T11:00:00Z",
+    "source_url": "https://thehill.com/policy/technology/6241299-nvidia-huang-reinstatement-china-chips/",
+    "source": "The Hill — Senate",
+    "category": "涉台／涉中"
+  },
+  {
+    "id": "db94e3d1090ae82124b6",
+    "title": "THC hemp, Iran war funding and defense spending threaten shutdown deal",
+    "summary": "Congress is barreling toward a Dec. 11 deadline to fund the government and avoid a shutdown, as lawmakers work to pull together a bipartisan deal that would allow them to keep federal agencies running at current levels into the spring. The contours of a deal—and acknowledgement that any funding bill would be short-term— began to...",
+    "published_at": "2026-11-25T11:00:00Z",
+    "source_url": "https://thehill.com/homenews/senate/6241266-congress-december-funding-deadline/",
+    "source": "The Hill — Senate",
+    "category": "國會動態"
+  },
+  {
+    "id": "1ba9816fd61e23056564",
+    "title": "Johnson banks on GOP unity as permitting bill vote nears",
+    "summary": "Still some uncertainty, but long-awaited measure seems close to clearing in the lame duck",
+    "published_at": "2026-11-25T06:00:00Z",
+    "source_url": "https://rollcall.com/2026/11/25/johnson-banks-on-gop-unity-as-permitting-bill-vote-nears",
+    "source": "Roll Call",
+    "category": "國會動態"
+  },
+  {
     "id": "26a6f1efc040630e5364",
     "title": "Democrat opens investigation into Venezuela oil deal with reported tie to Vance",
     "summary": "Sen. Maggie Hassan (D-N.H.) is demanding answers after a report alleged Vice President Vance had a connection to a major energy company that got a license to sell Venezuelan oil soon after the U.S. captured the country’s president. Hassan, the incoming chair of the Senate Homeland Security and Governmental Affairs Committee, said in a letter...",
@@ -554,60 +581,6 @@
     "summary": "New polling shows Republicans moving away from Vice President Vance and toward Secretary of State Marco Rubio ahead of the 2028 presidential election. What’s driving the dramatic shift? Plus, the incoming freshman class of Congress raises concerns about a “self-loathing” view of politics in Washington. Join The Hill’s senior vice president of editorial content, Bill Sammon,...",
     "published_at": "2026-11-20T13:32:11Z",
     "source_url": "https://thehill.com/newsletters/whole-hog-politics/whole-hog-politics-live-briefing/6232602-gop-shift-2028-presidential-race-marco-rubio-jd-vance-discussion/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "edfa34d293981f610d18",
-    "title": "Thune fears GOP revolt over Medicaid cuts in Pentagon funding push",
-    "summary": "Senate Majority Leader John Thune (R-S.D.) is leery about advancing a budget reconciliation package to fund the Pentagon as he and other GOP senators fear there will be a revolt within their ranks over reforms projected to reduce Medicaid spending by as much as $1 trillion. Thune has touted the changes to Medicaid that Republicans...",
-    "published_at": "2026-11-20T11:00:00Z",
-    "source_url": "https://thehill.com/homenews/senate/6232138-thune-hesitates-pentagon-budget/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "3b93fbc9a934965955e8",
-    "title": "Gen Z helped Democrats win. Now it may want new leadership",
-    "summary": "Generation Z helped to deliver a decisive win for Democrats in the 2026 midterm elections. Now they may want to see change in party leadership. Sen. Chuck Schumer (D-N.Y.), who has led Senate Democrats since 2017, is facing a challenge from Sen. Chris Van Hollen (D-Md.) to become majority leader in the Democratic-controlled 120th Congress. ...",
-    "published_at": "2026-11-20T11:00:00Z",
-    "source_url": "https://thehill.com/homenews/senate/6231953-gen-z-democrats-schumer-van-hollen/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "b3943e29a21f5c0e9029",
-    "title": "Raskin warns federal agencies against Signal use",
-    "summary": "Rep. Jamie Raskin (Md.), the top Democrat on the House Judiciary Committee, warned a host of federal agencies Thursday against using apps like Signal with auto-deleting messages, writing that it violates the law and could undermine congressional oversight efforts. The half dozen letters to Justice Department components and various Department of Homeland Security agencies come..",
-    "published_at": "2026-11-20T09:45:00Z",
-    "source_url": "https://thehill.com/homenews/house/6231917-raskin-warns-fbi-signal-usage/",
-    "source": "The Hill — House",
-    "category": "國會動態"
-  },
-  {
-    "id": "f49a5ebb554a234b6015",
-    "title": "Departing Senate spending kingpins angle for last earmark hurrah",
-    "summary": "Collins, McConnell lead in ‘congressionally directed’ appropriations in draft Senate bills",
-    "published_at": "2026-11-20T06:00:00Z",
-    "source_url": "https://rollcall.com/2026/11/20/departing-senate-spending-kingpins-angle-for-last-earmark-hurrah",
-    "source": "Roll Call",
-    "category": "國會動態"
-  },
-  {
-    "id": "4c6fd66e972a45bbff34",
-    "title": "DOJ looks to dismiss Alaska Senate lawsuit",
-    "summary": "The Department of Justice (DOJ) is looking to dismiss its lawsuit that was focused on blocking the certification of Alaska’s Senate race in the event Sen.-elect Mary Peltola (D) won, according to Thursday court filings. The case centered on the DOJ’s anger over the presence of a spoiler candidate who shared the same name as...",
-    "published_at": "2026-11-20T03:25:33Z",
-    "source_url": "https://thehill.com/regulation/court-battles/6232324-doj-seeks-alaska-senate-lawsuit-dismissal/",
-    "source": "The Hill — Senate",
-    "category": "國會動態"
-  },
-  {
-    "id": "f9ee490c85bfc1763f04",
-    "title": "Senate approves key permitting reform bill, sends to House",
-    "summary": "The Senate on Thursday passed a major bill that seeks to speed up the build-out of the nation’s energy and infrastructure — taking a massive step toward the bill becoming law. The bill was passed by a vote of 62-33. Just two Republicans, Sens. Mike Rounds (S.D.) and Josh Hawley (Mo.), voted against the bill....",
-    "published_at": "2026-11-20T03:09:11Z",
-    "source_url": "https://thehill.com/homenews/senate/6229829-senate-passes-permitting-reform/",
     "source": "The Hill — Senate",
     "category": "國會動態"
   }
